@@ -1,0 +1,63 @@
+# Project Context
+You are building a "Local-First Korean Language Audio Player" in Flutter.
+The goal is a distraction-free, privacy-focused study tool for 60 specific MP3 audio lessons.
+
+# Tech Stack
+- **Framework:** Flutter (Latest Stable)
+- **State Management:** Flutter Riverpod (Annotation based code-gen)
+- **Audio:** just_audio
+- **Background Audio:** audio_service
+- **Local DB:** hive_flutter (with hive_generator)
+- **UI Component:** flutter_hooks (optional, but prefer ConsumerWidget)
+
+# Architecture Guidelines (Feature-First)
+We follow a feature-first folder structure. Do not group by "screens" or "widgets". Group by feature.
+/lib
+  /src
+    /features
+      /library       (Home screen, list of lessons)
+      /player        (Audio player logic, controls, bookmarking)
+      /settings      (Simple local settings if needed)
+    /core
+      /data          (Hive setup, models)
+      /theme         (App colors, typography)
+      /utils         (Time formatters, helpers)
+
+# Coding Rules
+1. **No Cloud/Auth:** This app is 100% offline. Never suggest Firebase, Supabase, or REST APIs.
+2. **Strict Controls:** The player only has Play, Pause, -10s, +10s. Do NOT implement speed control or "Skip to Next Track".
+3. **Persistance is Key:** Every time the audio pauses or the page is disposed, the `lastPosition` MUST be saved to Hive immediately.
+4. **Error Handling:** Audio loading failures must show a friendly "Lesson file not found" snackbar, not crash.
+5. **UI Design:** Use Material 3. Keep it clean and high-contrast. Large buttons for easy tapping while walking.
+
+# Specific Implementation Details
+
+## The "Bookmark" Logic
+- A bookmark is simply an integer (seconds).
+- When user taps "Bookmark", get `player.position`, add to `List<int>` in the Hive object for this unit.
+- Show toast: "Bookmark saved at 12:45".
+
+## The "Progress" Logic
+- If `position` > `duration * 0.95`, mark `isCompleted = true`.
+- On app launch, `AudioService` should not auto-play. It should wait for user selection.
+
+# Asset Handling
+- The audio files are located in `assets/audio/`.
+- Do NOT hardcode a list of 60 strings. Use a loop (1 to 60) to generate the file paths dynamically using the pattern `assets/audio/Unit_${i}.mp3`.
+- Ensure the `pubspec.yaml` includes the `assets/audio/` directory.
+
+
+---
+
+# Tech Stack Updates
+- **Remove:** Hive, Hive Flutter, Build Runner.
+- **Add:** `shared_preferences`.
+- **State Management:** Riverpod (Keep this, it's good for UI state).
+
+# Coding Rules - Data Layer
+1. **JSON over SQL:** Do NOT use SQLite, Drift, or Hive. Use `shared_preferences` storing JSON strings.
+2. **Simple Models:** create a simple Dart class `LessonProgress` with `fromJson` and `toJson` methods.
+3. **Repository Pattern:** Create `LessonRepository` that wraps SharedPreferences.
+    - `saveProgress(int unitId, int seconds)`
+    - `toggleBookmark(int unitId, int seconds)`
+    - `getAllLessons()` -> Returns List<LessonProgress>
