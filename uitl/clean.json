@@ -1,0 +1,6785 @@
+[
+  {
+    "unit": "Unit_1",
+    "english_phrase": "no [polite]",
+    "korean_phrase": "아니요",
+    "audio_path": "1306.mp3",
+    "id": 1
+  },
+  {
+    "unit": "Unit_1",
+    "english_phrase": "also",
+    "korean_phrase": "도",
+    "audio_path": "242.mp3",
+    "id": 2
+  },
+  {
+    "unit": "Unit_1",
+    "english_phrase": "from",
+    "korean_phrase": "에서",
+    "audio_path": "391.mp3",
+    "id": 3
+  },
+  {
+    "unit": "Unit_1",
+    "english_phrase": "I",
+    "korean_phrase": "저",
+    "audio_path": "513.mp3",
+    "id": 4
+  },
+  {
+    "unit": "Unit_1",
+    "english_phrase": "a little",
+    "korean_phrase": "조금",
+    "audio_path": "1092.mp3",
+    "id": 5
+  },
+  {
+    "unit": "Unit_1",
+    "english_phrase": "Korean language",
+    "korean_phrase": "한국말",
+    "audio_path": "1788.mp3",
+    "id": 6
+  },
+  {
+    "unit": "Unit_1",
+    "english_phrase": "America",
+    "korean_phrase": "미국",
+    "audio_path": "536.mp3",
+    "id": 7
+  },
+  {
+    "unit": "Unit_1",
+    "english_phrase": "cannot",
+    "korean_phrase": "못",
+    "audio_path": "1756.mp3",
+    "id": 8
+  },
+  {
+    "unit": "Unit_1",
+    "english_phrase": "yes",
+    "korean_phrase": "네",
+    "audio_path": "690.mp3",
+    "id": 9
+  },
+  {
+    "unit": "Unit_1",
+    "english_phrase": "English",
+    "korean_phrase": "영어",
+    "audio_path": "313.mp3",
+    "id": 10
+  },
+  {
+    "unit": "Unit_2",
+    "english_phrase": "excuse me",
+    "korean_phrase": "실례합니다",
+    "audio_path": "980.mp3",
+    "id": 11
+  },
+  {
+    "unit": "Unit_2",
+    "english_phrase": "because we meet",
+    "korean_phrase": "만나서",
+    "audio_path": "1578.mp3",
+    "id": 12
+  },
+  {
+    "unit": "Unit_2",
+    "english_phrase": "very",
+    "korean_phrase": "아주",
+    "audio_path": "717.mp3",
+    "id": 13
+  },
+  {
+    "unit": "Unit_2",
+    "english_phrase": "good-bye",
+    "korean_phrase": "안녕히 계세요",
+    "audio_path": "966.mp3",
+    "id": 14
+  },
+  {
+    "unit": "Unit_2",
+    "english_phrase": "well",
+    "korean_phrase": "잘",
+    "audio_path": "1365.mp3",
+    "id": 15
+  },
+  {
+    "unit": "Unit_2",
+    "english_phrase": "as for me",
+    "korean_phrase": "저는",
+    "audio_path": "137.mp3",
+    "id": 16
+  },
+  {
+    "unit": "Unit_2",
+    "english_phrase": "is good",
+    "korean_phrase": "좋습니다",
+    "audio_path": "1028.mp3",
+    "id": 17
+  },
+  {
+    "unit": "Unit_2",
+    "english_phrase": "thank you",
+    "korean_phrase": "감사합니다",
+    "audio_path": "1591.mp3",
+    "id": 18
+  },
+  {
+    "unit": "Unit_2",
+    "english_phrase": "that’s right",
+    "korean_phrase": "그래요",
+    "audio_path": "1385.mp3",
+    "id": 19
+  },
+  {
+    "unit": "Unit_2",
+    "english_phrase": "weather",
+    "korean_phrase": "날씨",
+    "audio_path": "982.mp3",
+    "id": 20
+  },
+  {
+    "unit": "Unit_3",
+    "english_phrase": "I don’t know",
+    "korean_phrase": "몰라요",
+    "audio_path": "722.mp3",
+    "id": 21
+  },
+  {
+    "unit": "Unit_3",
+    "english_phrase": "learned",
+    "korean_phrase": "배웠어요",
+    "audio_path": "935.mp3",
+    "id": 22
+  },
+  {
+    "unit": "Unit_3",
+    "english_phrase": "did you eat?",
+    "korean_phrase": "드셨어요?",
+    "audio_path": "1356.mp3",
+    "id": 23
+  },
+  {
+    "unit": "Unit_3",
+    "english_phrase": "a little [polite]",
+    "korean_phrase": "조금요",
+    "audio_path": "1544.mp3",
+    "id": 24
+  },
+  {
+    "unit": "Unit_3",
+    "english_phrase": "but",
+    "korean_phrase": "하지만",
+    "audio_path": "1515.mp3",
+    "id": 25
+  },
+  {
+    "unit": "Unit_3",
+    "english_phrase": "lunch",
+    "korean_phrase": "점심",
+    "audio_path": "652.mp3",
+    "id": 26
+  },
+  {
+    "unit": "Unit_3",
+    "english_phrase": "very much",
+    "korean_phrase": "정말",
+    "audio_path": "1275.mp3",
+    "id": 27
+  },
+  {
+    "unit": "Unit_3",
+    "english_phrase": "breakfast",
+    "korean_phrase": "아침",
+    "audio_path": "787.mp3",
+    "id": 28
+  },
+  {
+    "unit": "Unit_3",
+    "english_phrase": "yet",
+    "korean_phrase": "아직",
+    "audio_path": "1161.mp3",
+    "id": 29
+  },
+  {
+    "unit": "Unit_3",
+    "english_phrase": "good departure",
+    "korean_phrase": "안녕히 가세요",
+    "audio_path": "316.mp3",
+    "id": 30
+  },
+  {
+    "unit": "Unit_4",
+    "english_phrase": "is not",
+    "korean_phrase": "아니에요",
+    "audio_path": "1676.mp3",
+    "id": 31
+  },
+  {
+    "unit": "Unit_4",
+    "english_phrase": "where",
+    "korean_phrase": "어디",
+    "audio_path": "1476.mp3",
+    "id": 32
+  },
+  {
+    "unit": "Unit_4",
+    "english_phrase": "where is?",
+    "korean_phrase": "어디예요?",
+    "audio_path": "124.mp3",
+    "id": 33
+  },
+  {
+    "unit": "Unit_4",
+    "english_phrase": "over there",
+    "korean_phrase": "저기",
+    "audio_path": "190.mp3",
+    "id": 34
+  },
+  {
+    "unit": "Unit_4",
+    "english_phrase": "park",
+    "korean_phrase": "공원이",
+    "audio_path": "337.mp3",
+    "id": 35
+  },
+  {
+    "unit": "Unit_4",
+    "english_phrase": "I ate",
+    "korean_phrase": "먹었어요",
+    "audio_path": "831.mp3",
+    "id": 36
+  },
+  {
+    "unit": "Unit_4",
+    "english_phrase": "How about ...?",
+    "korean_phrase": "는요?",
+    "audio_path": "1411.mp3",
+    "id": 37
+  },
+  {
+    "unit": "Unit_4",
+    "english_phrase": "here",
+    "korean_phrase": "여기",
+    "audio_path": "1737.mp3",
+    "id": 38
+  },
+  {
+    "unit": "Unit_4",
+    "english_phrase": "is [polite]",
+    "korean_phrase": "예요",
+    "audio_path": "936.mp3",
+    "id": 39
+  },
+  {
+    "unit": "Unit_4",
+    "english_phrase": "language",
+    "korean_phrase": "말",
+    "audio_path": "369.mp3",
+    "id": 40
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Hi! (casual)",
+    "korean_phrase": "안녕!\n!",
+    "audio_path": "395.mp3",
+    "id": 41
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Nice to meet you. (casual)",
+    "korean_phrase": "만나서 반가워.",
+    "audio_path": "197.mp3",
+    "id": 42
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Thanks. (casual)",
+    "korean_phrase": "고마워.\n.",
+    "audio_path": "1754.mp3",
+    "id": 43
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Where are you from?",
+    "korean_phrase": "어디에서 왔어요?",
+    "audio_path": "1421.mp3",
+    "id": 44
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "I'm from France.",
+    "korean_phrase": "프랑스에서 왔어요.",
+    "audio_path": "119.mp3",
+    "id": 45
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "How are you? / How have you been?",
+    "korean_phrase": "잘 지냈어요? ",
+    "audio_path": "78.mp3",
+    "id": 46
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Yes, I’m doing well.",
+    "korean_phrase": "네, 잘 지냈어요.\n,",
+    "audio_path": "1706.mp3",
+    "id": 47
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Are you okay? (casual)",
+    "korean_phrase": "괜찮아?",
+    "audio_path": "256.mp3",
+    "id": 48
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "I don’t know. (polite)",
+    "korean_phrase": "모르겠어요.",
+    "audio_path": "667.mp3",
+    "id": 49
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Please speak slowly.",
+    "korean_phrase": "천천히 말해 주세요.",
+    "audio_path": "1322.mp3",
+    "id": 50
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "What’s your name?",
+    "korean_phrase": "이름이 뭐예요?",
+    "audio_path": "96.mp3",
+    "id": 51
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "My name is Robert.",
+    "korean_phrase": "내 이름은 로버트입니다.",
+    "audio_path": "1553.mp3",
+    "id": 52
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "See you later. (casual)",
+    "korean_phrase": "나중에 봐.",
+    "audio_path": "68.mp3",
+    "id": 53
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "See you next time. (casual)",
+    "korean_phrase": "다음에 봐.",
+    "audio_path": "1027.mp3",
+    "id": 54
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "The weather is not good.",
+    "korean_phrase": "날씨가 안 좋아요.",
+    "audio_path": "55.mp3",
+    "id": 55
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "It’s raining.",
+    "korean_phrase": "비가 내리고 있어요.",
+    "audio_path": "21.mp3",
+    "id": 56
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "It’s so cold today.",
+    "korean_phrase": "오늘은 너무 추워요.",
+    "audio_path": "642.mp3",
+    "id": 57
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "It’s going to rain tomorrow.",
+    "korean_phrase": "내일은 비가 올 예정이에요.",
+    "audio_path": "1529.mp3",
+    "id": 58
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Are you thirsty?",
+    "korean_phrase": "목 말라요?",
+    "audio_path": "489.mp3",
+    "id": 59
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Yes. I’m thirsty.",
+    "korean_phrase": "네. 목 말라요.\n.",
+    "audio_path": "640.mp3",
+    "id": 60
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "I’m learning to drive.",
+    "korean_phrase": "운전을 배우고 있어요.",
+    "audio_path": "19.mp3",
+    "id": 61
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "It’s not far at all.",
+    "korean_phrase": "전혀 멀지 않아요.",
+    "audio_path": "361.mp3",
+    "id": 62
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "It’s near the Han river.",
+    "korean_phrase": "한강 근처예요.",
+    "audio_path": "784.mp3",
+    "id": 63
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "What’s today’s special?",
+    "korean_phrase": "오늘의 특별 요리가 뭐예요?",
+    "audio_path": "1387.mp3",
+    "id": 64
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Perfect! (casual)",
+    "korean_phrase": "완벽해!",
+    "audio_path": "1046.mp3",
+    "id": 65
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Did you eat? (casual)",
+    "korean_phrase": "밥 먹었어?",
+    "audio_path": "558.mp3",
+    "id": 66
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "What did you have for lunch?",
+    "korean_phrase": "점심 뭐 먹었어요?",
+    "audio_path": "301.mp3",
+    "id": 67
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Korean food is spicy.",
+    "korean_phrase": "한국 음식 매워요.",
+    "audio_path": "108.mp3",
+    "id": 68
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "I eat kimchi every day.",
+    "korean_phrase": "나는 김치를 매일 먹어요.",
+    "audio_path": "1615.mp3",
+    "id": 69
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "I know",
+    "korean_phrase": "알아요",
+    "audio_path": "200.mp3",
+    "id": 70
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Won’t you eat?",
+    "korean_phrase": "안드시겠어요?",
+    "audio_path": "111.mp3",
+    "id": 71
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Do you know? [polite]",
+    "korean_phrase": "아세요?",
+    "audio_path": "1148.mp3",
+    "id": 72
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Korean food",
+    "korean_phrase": "한국 음식",
+    "audio_path": "912.mp3",
+    "id": 73
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Well, let me see ...",
+    "korean_phrase": "글쎄요..",
+    "audio_path": "333.mp3",
+    "id": 74
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "I drink",
+    "korean_phrase": "마시",
+    "audio_path": "237.mp3",
+    "id": 75
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "Aren’t you hungry?",
+    "korean_phrase": "배고프지 않아요?",
+    "audio_path": "750.mp3",
+    "id": 76
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "I am going to drink",
+    "korean_phrase": "마시겠어요",
+    "audio_path": "100.mp3",
+    "id": 77
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "I eat",
+    "korean_phrase": "먹",
+    "audio_path": "1455.mp3",
+    "id": 78
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "I am going to eat",
+    "korean_phrase": "먹겠어요",
+    "audio_path": "1250.mp3",
+    "id": 79
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "something",
+    "korean_phrase": "뭘 좀",
+    "audio_path": "121.mp3",
+    "id": 80
+  },
+  {
+    "unit": "Unit_5",
+    "english_phrase": "I am fine. [decline politely]",
+    "korean_phrase": "괜찮아요.",
+    "audio_path": "1611.mp3",
+    "id": 81
+  },
+  {
+    "unit": "Unit_6",
+    "english_phrase": "when",
+    "korean_phrase": "언제",
+    "audio_path": "857.mp3",
+    "id": 82
+  },
+  {
+    "unit": "Unit_6",
+    "english_phrase": "I’m sorry",
+    "korean_phrase": "미안합니다",
+    "audio_path": "997.mp3",
+    "id": 83
+  },
+  {
+    "unit": "Unit_6",
+    "english_phrase": "my",
+    "korean_phrase": "제",
+    "audio_path": "250.mp3",
+    "id": 84
+  },
+  {
+    "unit": "Unit_6",
+    "english_phrase": "me too",
+    "korean_phrase": "저도",
+    "audio_path": "255.mp3",
+    "id": 85
+  },
+  {
+    "unit": "Unit_6",
+    "english_phrase": "now",
+    "korean_phrase": "지금",
+    "audio_path": "1388.mp3",
+    "id": 86
+  },
+  {
+    "unit": "Unit_6",
+    "english_phrase": "home",
+    "korean_phrase": "집",
+    "audio_path": "1196.mp3",
+    "id": 87
+  },
+  {
+    "unit": "Unit_6",
+    "english_phrase": "All right?",
+    "korean_phrase": "좋습니까?",
+    "audio_path": "449.mp3",
+    "id": 88
+  },
+  {
+    "unit": "Unit_6",
+    "english_phrase": "it is good",
+    "korean_phrase": "좋습니다",
+    "audio_path": "1445.mp3",
+    "id": 89
+  },
+  {
+    "unit": "Unit_6",
+    "english_phrase": "later",
+    "korean_phrase": "나중에",
+    "audio_path": "1630.mp3",
+    "id": 90
+  },
+  {
+    "unit": "Unit_6",
+    "english_phrase": "restaurant",
+    "korean_phrase": "레스토랑",
+    "audio_path": "1539.mp3",
+    "id": 91
+  },
+  {
+    "unit": "Unit_7",
+    "english_phrase": "anything",
+    "korean_phrase": "아무것도",
+    "audio_path": "1443.mp3",
+    "id": 92
+  },
+  {
+    "unit": "Unit_7",
+    "english_phrase": "me neither",
+    "korean_phrase": "저도",
+    "audio_path": "1048.mp3",
+    "id": 93
+  },
+  {
+    "unit": "Unit_7",
+    "english_phrase": "would be good",
+    "korean_phrase": "좋겠어요",
+    "audio_path": "1157.mp3",
+    "id": 94
+  },
+  {
+    "unit": "Unit_7",
+    "english_phrase": "coffee shop",
+    "korean_phrase": "커피숍",
+    "audio_path": "91.mp3",
+    "id": 95
+  },
+  {
+    "unit": "Unit_7",
+    "english_phrase": "what",
+    "korean_phrase": "뭘",
+    "audio_path": "585.mp3",
+    "id": 96
+  },
+  {
+    "unit": "Unit_7",
+    "english_phrase": "water",
+    "korean_phrase": "물",
+    "audio_path": "172.mp3",
+    "id": 97
+  },
+  {
+    "unit": "Unit_7",
+    "english_phrase": "green tea",
+    "korean_phrase": "녹차",
+    "audio_path": "761.mp3",
+    "id": 98
+  },
+  {
+    "unit": "Unit_7",
+    "english_phrase": "latte",
+    "korean_phrase": "라떼",
+    "audio_path": "378.mp3",
+    "id": 99
+  },
+  {
+    "unit": "Unit_7",
+    "english_phrase": "as for green tea",
+    "korean_phrase": "녹차는",
+    "audio_path": "1478.mp3",
+    "id": 100
+  },
+  {
+    "unit": "Unit_7",
+    "english_phrase": "as for latte",
+    "korean_phrase": "라떼는",
+    "audio_path": "824.mp3",
+    "id": 101
+  },
+  {
+    "unit": "Unit_8",
+    "english_phrase": "friend",
+    "korean_phrase": "친구",
+    "audio_path": "1567.mp3",
+    "id": 102
+  },
+  {
+    "unit": "Unit_8",
+    "english_phrase": "two",
+    "korean_phrase": "두",
+    "audio_path": "182.mp3",
+    "id": 103
+  },
+  {
+    "unit": "Unit_8",
+    "english_phrase": "hotel",
+    "korean_phrase": "호텔",
+    "audio_path": "527.mp3",
+    "id": 104
+  },
+  {
+    "unit": "Unit_8",
+    "english_phrase": "glass",
+    "korean_phrase": "잔",
+    "audio_path": "841.mp3",
+    "id": 105
+  },
+  {
+    "unit": "Unit_8",
+    "english_phrase": "please give me",
+    "korean_phrase": "주세요",
+    "audio_path": "1547.mp3",
+    "id": 106
+  },
+  {
+    "unit": "Unit_8",
+    "english_phrase": "cola",
+    "korean_phrase": "콜라",
+    "audio_path": "150.mp3",
+    "id": 107
+  },
+  {
+    "unit": "Unit_8",
+    "english_phrase": "two glasses of cola",
+    "korean_phrase": "콜라 두 잔",
+    "audio_path": "1005.mp3",
+    "id": 108
+  },
+  {
+    "unit": "Unit_8",
+    "english_phrase": "or",
+    "korean_phrase": "나",
+    "audio_path": "1181.mp3",
+    "id": 109
+  },
+  {
+    "unit": "Unit_8",
+    "english_phrase": "whom",
+    "korean_phrase": "누구",
+    "audio_path": "262.mp3",
+    "id": 110
+  },
+  {
+    "unit": "Unit_8",
+    "english_phrase": "buy",
+    "korean_phrase": "사",
+    "audio_path": "783.mp3",
+    "id": 111
+  },
+  {
+    "unit": "Unit_9",
+    "english_phrase": "nine",
+    "korean_phrase": "아홉",
+    "audio_path": "1648.mp3",
+    "id": 112
+  },
+  {
+    "unit": "Unit_9",
+    "english_phrase": "understand",
+    "korean_phrase": "알",
+    "audio_path": "80.mp3",
+    "id": 113
+  },
+  {
+    "unit": "Unit_9",
+    "english_phrase": "or else",
+    "korean_phrase": "아니면",
+    "audio_path": "709.mp3",
+    "id": 114
+  },
+  {
+    "unit": "Unit_9",
+    "english_phrase": "department store",
+    "korean_phrase": "백화점",
+    "audio_path": "1554.mp3",
+    "id": 115
+  },
+  {
+    "unit": "Unit_9",
+    "english_phrase": "at one o’clock",
+    "korean_phrase": "한시에요",
+    "audio_path": "598.mp3",
+    "id": 116
+  },
+  {
+    "unit": "Unit_9",
+    "english_phrase": "at eight o’clock",
+    "korean_phrase": "여덟시에요",
+    "audio_path": "948.mp3",
+    "id": 117
+  },
+  {
+    "unit": "Unit_9",
+    "english_phrase": "meet",
+    "korean_phrase": "만나요",
+    "audio_path": "1506.mp3",
+    "id": 118
+  },
+  {
+    "unit": "Unit_9",
+    "english_phrase": "at nine o’clock",
+    "korean_phrase": "아홉시에요",
+    "audio_path": "270.mp3",
+    "id": 119
+  },
+  {
+    "unit": "Unit_9",
+    "english_phrase": "I speak",
+    "korean_phrase": "해요",
+    "audio_path": "469.mp3",
+    "id": 120
+  },
+  {
+    "unit": "Unit_9",
+    "english_phrase": "you speak",
+    "korean_phrase": "하세요",
+    "audio_path": "812.mp3",
+    "id": 121
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "When do you want to eat? (casual)",
+    "korean_phrase": "언제 먹고 싶어?",
+    "audio_path": "226.mp3",
+    "id": 122
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "I’m starving! (casual)",
+    "korean_phrase": "배고파 죽겠어!",
+    "audio_path": "305.mp3",
+    "id": 123
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "Do you like noodles?",
+    "korean_phrase": "국수 좋아해요?",
+    "audio_path": "1719.mp3",
+    "id": 124
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "It’s too sweet.",
+    "korean_phrase": "너무 달아요.",
+    "audio_path": "1353.mp3",
+    "id": 125
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "I think I’ll be a little late.",
+    "korean_phrase": "조금 늦을 것 같아요.",
+    "audio_path": "1726.mp3",
+    "id": 126
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "This movie is so scary.",
+    "korean_phrase": "이 영화 너무 무서워요.",
+    "audio_path": "1724.mp3",
+    "id": 127
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "Where is it?",
+    "korean_phrase": "어디에요?",
+    "audio_path": "1746.mp3",
+    "id": 128
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "It’s in front of the station.",
+    "korean_phrase": "역 앞에 있어요.",
+    "audio_path": "878.mp3",
+    "id": 129
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "What time is it?",
+    "korean_phrase": "몇시예요?",
+    "audio_path": "1504.mp3",
+    "id": 130
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "four",
+    "korean_phrase": "네",
+    "audio_path": "1229.mp3",
+    "id": 131
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "three",
+    "korean_phrase": "세",
+    "audio_path": "1190.mp3",
+    "id": 132
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "at four o’clock",
+    "korean_phrase": "네시에요",
+    "audio_path": "339.mp3",
+    "id": 133
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "at three o’clock",
+    "korean_phrase": "세시에요",
+    "audio_path": "553.mp3",
+    "id": 134
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "What are you doing today? (casual)",
+    "korean_phrase": "오늘 뭐 할거야?",
+    "audio_path": "1258.mp3",
+    "id": 135
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "What are you going to do tomorrow? (casual)",
+    "korean_phrase": "내일 뭐 할 예정이야?",
+    "audio_path": "99.mp3",
+    "id": 136
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "I’m going to see a friend later. (casual)",
+    "korean_phrase": "나중에 친구 만날 거야.",
+    "audio_path": "1211.mp3",
+    "id": 137
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "I’m going to watch Netflix at home.",
+    "korean_phrase": "집에서 넷플릭스 볼 거예요.",
+    "audio_path": "1617.mp3",
+    "id": 138
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "Don’t lie. (casual)",
+    "korean_phrase": "거짓말 하지마.",
+    "audio_path": "167.mp3",
+    "id": 139
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "Of course! (casual)",
+    "korean_phrase": "당연하지!",
+    "audio_path": "235.mp3",
+    "id": 140
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "Who is this?",
+    "korean_phrase": "누구세요?",
+    "audio_path": "309.mp3",
+    "id": 141
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "What is that?",
+    "korean_phrase": "저거 뭐예요?",
+    "audio_path": "1118.mp3",
+    "id": 142
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "It’s nothing.",
+    "korean_phrase": "아무것도 아니에요.",
+    "audio_path": "170.mp3",
+    "id": 143
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "I’m sorry. (casual)",
+    "korean_phrase": "미안해.\n.",
+    "audio_path": "711.mp3",
+    "id": 144
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "Would you like a snack?",
+    "korean_phrase": "간식 먹을래요?",
+    "audio_path": "18.mp3",
+    "id": 145
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "five",
+    "korean_phrase": "다섯",
+    "audio_path": "1701.mp3",
+    "id": 146
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "will you eat?",
+    "korean_phrase": "드시겠어요?",
+    "audio_path": "1332.mp3",
+    "id": 147
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "a little bit",
+    "korean_phrase": "좀",
+    "audio_path": "1240.mp3",
+    "id": 148
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "in that case",
+    "korean_phrase": "그럼",
+    "audio_path": "429.mp3",
+    "id": 149
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "(I / you) want to",
+    "korean_phrase": "고 싶어요",
+    "audio_path": "1106.mp3",
+    "id": 150
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "how many",
+    "korean_phrase": "몇",
+    "audio_path": "1730.mp3",
+    "id": 151
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "How are you feeling today? (casual)",
+    "korean_phrase": "오늘 기분이 어때?",
+    "audio_path": "1521.mp3",
+    "id": 152
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "I feel good.",
+    "korean_phrase": "기분이 좋아요.",
+    "audio_path": "623.mp3",
+    "id": 153
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "I feel tired.",
+    "korean_phrase": "피곤해요.",
+    "audio_path": "1197.mp3",
+    "id": 154
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "What are you saying?",
+    "korean_phrase": "무슨 말이에요?",
+    "audio_path": "146.mp3",
+    "id": 155
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "I highly recommend the green tea latte! (slang)",
+    "korean_phrase": "녹차 라떼 강추!",
+    "audio_path": "1047.mp3",
+    "id": 156
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "I’m going to bed now.",
+    "korean_phrase": "지금 잘 거예요.",
+    "audio_path": "684.mp3",
+    "id": 157
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "Why? (casual)",
+    "korean_phrase": "왜?\n?",
+    "audio_path": "254.mp3",
+    "id": 158
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "It’s late night.",
+    "korean_phrase": "밤이 늦었어요.",
+    "audio_path": "727.mp3",
+    "id": 159
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "I’m bored.",
+    "korean_phrase": "심심해요.",
+    "audio_path": "700.mp3",
+    "id": 160
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "Good night. / Sleep well.",
+    "korean_phrase": "잘 자요.",
+    "audio_path": "622.mp3",
+    "id": 161
+  },
+  {
+    "unit": "Unit_10",
+    "english_phrase": "Hello? (on the phone)",
+    "korean_phrase": "여보세요?",
+    "audio_path": "965.mp3",
+    "id": 162
+  },
+  {
+    "unit": "Unit_11",
+    "english_phrase": "tomorrow",
+    "korean_phrase": "내일",
+    "audio_path": "538.mp3",
+    "id": 163
+  },
+  {
+    "unit": "Unit_11",
+    "english_phrase": "tomorrow evening",
+    "korean_phrase": "내일 저녁에",
+    "audio_path": "590.mp3",
+    "id": 164
+  },
+  {
+    "unit": "Unit_11",
+    "english_phrase": "seven",
+    "korean_phrase": "일곱",
+    "audio_path": "1188.mp3",
+    "id": 165
+  },
+  {
+    "unit": "Unit_11",
+    "english_phrase": "in the evening",
+    "korean_phrase": "저녁에",
+    "audio_path": "1715.mp3",
+    "id": 166
+  },
+  {
+    "unit": "Unit_11",
+    "english_phrase": "today",
+    "korean_phrase": "오늘",
+    "audio_path": "1761.mp3",
+    "id": 167
+  },
+  {
+    "unit": "Unit_11",
+    "english_phrase": "this evening",
+    "korean_phrase": "오늘 저녁에",
+    "audio_path": "382.mp3",
+    "id": 168
+  },
+  {
+    "unit": "Unit_11",
+    "english_phrase": "us",
+    "korean_phrase": "우리",
+    "audio_path": "298.mp3",
+    "id": 169
+  },
+  {
+    "unit": "Unit_11",
+    "english_phrase": "ten",
+    "korean_phrase": "열",
+    "audio_path": "1637.mp3",
+    "id": 170
+  },
+  {
+    "unit": "Unit_11",
+    "english_phrase": "six",
+    "korean_phrase": "여섯",
+    "audio_path": "688.mp3",
+    "id": 171
+  },
+  {
+    "unit": "Unit_11",
+    "english_phrase": "at ten o’clock",
+    "korean_phrase": "열시에요",
+    "audio_path": "186.mp3",
+    "id": 172
+  },
+  {
+    "unit": "Unit_12",
+    "english_phrase": "two [used with money]",
+    "korean_phrase": "이",
+    "audio_path": "1510.mp3",
+    "id": 173
+  },
+  {
+    "unit": "Unit_12",
+    "english_phrase": "two thousand",
+    "korean_phrase": "이천",
+    "audio_path": "1264.mp3",
+    "id": 174
+  },
+  {
+    "unit": "Unit_12",
+    "english_phrase": "See you tomorrow.",
+    "korean_phrase": "내일 봅시다",
+    "audio_path": "1394.mp3",
+    "id": 175
+  },
+  {
+    "unit": "Unit_12",
+    "english_phrase": "four thousand",
+    "korean_phrase": "사천",
+    "audio_path": "1499.mp3",
+    "id": 176
+  },
+  {
+    "unit": "Unit_12",
+    "english_phrase": "three thousand",
+    "korean_phrase": "삼천",
+    "audio_path": "1518.mp3",
+    "id": 177
+  },
+  {
+    "unit": "Unit_12",
+    "english_phrase": "one thousand",
+    "korean_phrase": "천",
+    "audio_path": "621.mp3",
+    "id": 178
+  },
+  {
+    "unit": "Unit_12",
+    "english_phrase": "how much",
+    "korean_phrase": "얼마",
+    "audio_path": "975.mp3",
+    "id": 179
+  },
+  {
+    "unit": "Unit_12",
+    "english_phrase": "How much is it?",
+    "korean_phrase": "얼마예요?",
+    "audio_path": "606.mp3",
+    "id": 180
+  },
+  {
+    "unit": "Unit_12",
+    "english_phrase": "It’s fine.",
+    "korean_phrase": "괜찮아요.",
+    "audio_path": "788.mp3",
+    "id": 181
+  },
+  {
+    "unit": "Unit_12",
+    "english_phrase": "and",
+    "korean_phrase": "하고",
+    "audio_path": "641.mp3",
+    "id": 182
+  },
+  {
+    "unit": "Unit_13",
+    "english_phrase": "five thousand",
+    "korean_phrase": "오천",
+    "audio_path": "1337.mp3",
+    "id": 183
+  },
+  {
+    "unit": "Unit_13",
+    "english_phrase": "wine",
+    "korean_phrase": "와인",
+    "audio_path": "779.mp3",
+    "id": 184
+  },
+  {
+    "unit": "Unit_13",
+    "english_phrase": "Here it is.",
+    "korean_phrase": "여기 있습니다.",
+    "audio_path": "1403.mp3",
+    "id": 185
+  },
+  {
+    "unit": "Unit_13",
+    "english_phrase": "six thousand",
+    "korean_phrase": "육천",
+    "audio_path": "537.mp3",
+    "id": 186
+  },
+  {
+    "unit": "Unit_13",
+    "english_phrase": "bottles",
+    "korean_phrase": "병",
+    "audio_path": "348.mp3",
+    "id": 187
+  },
+  {
+    "unit": "Unit_13",
+    "english_phrase": "money",
+    "korean_phrase": "돈",
+    "audio_path": "227.mp3",
+    "id": 188
+  },
+  {
+    "unit": "Unit_13",
+    "english_phrase": "Korean money",
+    "korean_phrase": "한국 돈",
+    "audio_path": "1741.mp3",
+    "id": 189
+  },
+  {
+    "unit": "Unit_13",
+    "english_phrase": "we have",
+    "korean_phrase": "있어요",
+    "audio_path": "1012.mp3",
+    "id": 190
+  },
+  {
+    "unit": "Unit_13",
+    "english_phrase": "beer",
+    "korean_phrase": "맥주",
+    "audio_path": "444.mp3",
+    "id": 191
+  },
+  {
+    "unit": "Unit_13",
+    "english_phrase": "two bottles of beer",
+    "korean_phrase": "맥주 두 병",
+    "audio_path": "775.mp3",
+    "id": 192
+  },
+  {
+    "unit": "Unit_14",
+    "english_phrase": "seven thousand",
+    "korean_phrase": "칠천",
+    "audio_path": "341.mp3",
+    "id": 193
+  },
+  {
+    "unit": "Unit_14",
+    "english_phrase": "I am giving you",
+    "korean_phrase": "드릴게요",
+    "audio_path": "1166.mp3",
+    "id": 194
+  },
+  {
+    "unit": "Unit_14",
+    "english_phrase": "go",
+    "korean_phrase": "가",
+    "audio_path": "272.mp3",
+    "id": 195
+  },
+  {
+    "unit": "Unit_14",
+    "english_phrase": "I want to go",
+    "korean_phrase": "가고 싶어요",
+    "audio_path": "1303.mp3",
+    "id": 196
+  },
+  {
+    "unit": "Unit_14",
+    "english_phrase": "together",
+    "korean_phrase": "같이",
+    "audio_path": "342.mp3",
+    "id": 197
+  },
+  {
+    "unit": "Unit_14",
+    "english_phrase": "store",
+    "korean_phrase": "가게",
+    "audio_path": "193.mp3",
+    "id": 198
+  },
+  {
+    "unit": "Unit_14",
+    "english_phrase": "ten thousand",
+    "korean_phrase": "만",
+    "audio_path": "1654.mp3",
+    "id": 199
+  },
+  {
+    "unit": "Unit_14",
+    "english_phrase": "seventeen thousand",
+    "korean_phrase": "만 칠천",
+    "audio_path": "632.mp3",
+    "id": 200
+  },
+  {
+    "unit": "Unit_14",
+    "english_phrase": "I want to buy",
+    "korean_phrase": "사고 싶어요",
+    "audio_path": "1133.mp3",
+    "id": 201
+  },
+  {
+    "unit": "Unit_14",
+    "english_phrase": "gifts",
+    "korean_phrase": "선물",
+    "audio_path": "1156.mp3",
+    "id": 202
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "a lot of",
+    "korean_phrase": "많이",
+    "audio_path": "1436.mp3",
+    "id": 203
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "dollars",
+    "korean_phrase": "달러",
+    "audio_path": "789.mp3",
+    "id": 204
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "you can eat",
+    "korean_phrase": "드실수 있어요",
+    "audio_path": "1074.mp3",
+    "id": 205
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I can eat",
+    "korean_phrase": "먹을 수 있어요",
+    "audio_path": "363.mp3",
+    "id": 206
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "eight dollars",
+    "korean_phrase": "팔불",
+    "audio_path": "581.mp3",
+    "id": 207
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I can’t eat",
+    "korean_phrase": "먹을 수 없어요",
+    "audio_path": "1482.mp3",
+    "id": 208
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "in dollars",
+    "korean_phrase": "달러로",
+    "audio_path": "1301.mp3",
+    "id": 209
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "seventeen",
+    "korean_phrase": "십칠",
+    "audio_path": "436.mp3",
+    "id": 210
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "eighteen thousand",
+    "korean_phrase": "만팔천",
+    "audio_path": "1683.mp3",
+    "id": 211
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "sixteen",
+    "korean_phrase": "십육",
+    "audio_path": "110.mp3",
+    "id": 212
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "fifteen",
+    "korean_phrase": "십오",
+    "audio_path": "1768.mp3",
+    "id": 213
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Please wrap it up. / To go please.",
+    "korean_phrase": "포장해 주세요.",
+    "audio_path": "344.mp3",
+    "id": 214
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I’m allergic to cucumbers.",
+    "korean_phrase": "오이 알레르기가 있어요.",
+    "audio_path": "1464.mp3",
+    "id": 215
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "What do you want to eat for dinner? (casual)",
+    "korean_phrase": "저녁에 뭐 먹고 싶어?",
+    "audio_path": "1492.mp3",
+    "id": 216
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I don’t want to eat.",
+    "korean_phrase": "안 먹을래요.",
+    "audio_path": "1604.mp3",
+    "id": 217
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I’m on a diet.",
+    "korean_phrase": "다이어트 중이에요.",
+    "audio_path": "1350.mp3",
+    "id": 218
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Please give me the receipt.",
+    "korean_phrase": "영수증 주세요. ",
+    "audio_path": "1475.mp3",
+    "id": 219
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I’d like to change it to coins, please.",
+    "korean_phrase": "동전으로 바꿔 주세요.",
+    "audio_path": "848.mp3",
+    "id": 220
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I’d like to change it to a bill (note), please.",
+    "korean_phrase": "지폐로 바꿔 주세요.",
+    "audio_path": "1008.mp3",
+    "id": 221
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I don’t have any cash.",
+    "korean_phrase": "현금이 하나도 없어요.",
+    "audio_path": "120.mp3",
+    "id": 222
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Do you accept credit cards?",
+    "korean_phrase": "카드 되나요?",
+    "audio_path": "998.mp3",
+    "id": 223
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Do you want a late-night snack?",
+    "korean_phrase": "야식 먹을래요?",
+    "audio_path": "1274.mp3",
+    "id": 224
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I have to get up early tomorrow morning.",
+    "korean_phrase": "내일 아침 일찍 일어나야 해요.",
+    "audio_path": "1223.mp3",
+    "id": 225
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Can I eat this?",
+    "korean_phrase": "이거 먹어도 되나요?",
+    "audio_path": "1568.mp3",
+    "id": 226
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "This ramen is very spicy.",
+    "korean_phrase": "이 라면은 너무 매워요.",
+    "audio_path": "1586.mp3",
+    "id": 227
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I have indigestion.",
+    "korean_phrase": "소화가 안 됐어요.",
+    "audio_path": "756.mp3",
+    "id": 228
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Can I get a discount?",
+    "korean_phrase": "할인되나요?",
+    "audio_path": "151.mp3",
+    "id": 229
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I have a discount coupon.",
+    "korean_phrase": "할인쿠폰이 있어요.",
+    "audio_path": "1210.mp3",
+    "id": 230
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Do you want to come with me?",
+    "korean_phrase": "나랑 같이 갈래요?",
+    "audio_path": "492.mp3",
+    "id": 231
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Do you want to drink with me?",
+    "korean_phrase": "나랑 같이 마실래요?",
+    "audio_path": "1780.mp3",
+    "id": 232
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I hope it’s not too hot. (food or drink)",
+    "korean_phrase": "너무 뜨겁지 않기를 바라요.",
+    "audio_path": "10.mp3",
+    "id": 233
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "It’s on me.",
+    "korean_phrase": "내가 살게요.",
+    "audio_path": "189.mp3",
+    "id": 234
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Would you like to eat more?",
+    "korean_phrase": "더 먹고 싶나요?",
+    "audio_path": "56.mp3",
+    "id": 235
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I’d like to eat more.",
+    "korean_phrase": "더 먹고 싶어요.",
+    "audio_path": "1404.mp3",
+    "id": 236
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Can I try it on?",
+    "korean_phrase": "이거 입어봐도 되나요?",
+    "audio_path": "1419.mp3",
+    "id": 237
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "These pants are too tight on me.",
+    "korean_phrase": "이 바지는 나에게 너무 작아요.",
+    "audio_path": "1446.mp3",
+    "id": 238
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "It’s over my budget.",
+    "korean_phrase": "내 예산을 초과해요.",
+    "audio_path": "881.mp3",
+    "id": 239
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "I bought a movie ticket with the app.",
+    "korean_phrase": "어플로 영화 표를 샀어요.",
+    "audio_path": "773.mp3",
+    "id": 240
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Which one is popular?",
+    "korean_phrase": "어떤 게 인기 있어요?",
+    "audio_path": "1330.mp3",
+    "id": 241
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "These shirts are much better.",
+    "korean_phrase": "이 셔츠들이 훨씬 낫네요.",
+    "audio_path": "1596.mp3",
+    "id": 242
+  },
+  {
+    "unit": "Unit_15",
+    "english_phrase": "Can I pay with my phone?",
+    "korean_phrase": "핸드폰으로 결제할 수 있어요?",
+    "audio_path": "1563.mp3",
+    "id": 243
+  },
+  {
+    "unit": "Unit_16",
+    "english_phrase": "it’s not enough",
+    "korean_phrase": "안 충분해요",
+    "audio_path": "28.mp3",
+    "id": 244
+  },
+  {
+    "unit": "Unit_16",
+    "english_phrase": "enough",
+    "korean_phrase": "충분",
+    "audio_path": "456.mp3",
+    "id": 245
+  },
+  {
+    "unit": "Unit_16",
+    "english_phrase": "that is enough",
+    "korean_phrase": "충분해요",
+    "audio_path": "974.mp3",
+    "id": 246
+  },
+  {
+    "unit": "Unit_16",
+    "english_phrase": "for me",
+    "korean_phrase": "저에게",
+    "audio_path": "1297.mp3",
+    "id": 247
+  },
+  {
+    "unit": "Unit_16",
+    "english_phrase": "any at all",
+    "korean_phrase": "하나도",
+    "audio_path": "408.mp3",
+    "id": 248
+  },
+  {
+    "unit": "Unit_16",
+    "english_phrase": "twenty",
+    "korean_phrase": "이십",
+    "audio_path": "1783.mp3",
+    "id": 249
+  },
+  {
+    "unit": "Unit_16",
+    "english_phrase": "twenty-one",
+    "korean_phrase": "이십 일",
+    "audio_path": "732.mp3",
+    "id": 250
+  },
+  {
+    "unit": "Unit_16",
+    "english_phrase": "twenty-five",
+    "korean_phrase": "이십오",
+    "audio_path": "594.mp3",
+    "id": 251
+  },
+  {
+    "unit": "Unit_16",
+    "english_phrase": "twenty-four",
+    "korean_phrase": "이십 사",
+    "audio_path": "153.mp3",
+    "id": 252
+  },
+  {
+    "unit": "Unit_16",
+    "english_phrase": "isn’t it?",
+    "korean_phrase": "있네요?",
+    "audio_path": "610.mp3",
+    "id": 253
+  },
+  {
+    "unit": "Unit_17",
+    "english_phrase": "expensive",
+    "korean_phrase": "비싸",
+    "audio_path": "804.mp3",
+    "id": 254
+  },
+  {
+    "unit": "Unit_17",
+    "english_phrase": "slowly",
+    "korean_phrase": "천천히",
+    "audio_path": "169.mp3",
+    "id": 255
+  },
+  {
+    "unit": "Unit_17",
+    "english_phrase": "where to?",
+    "korean_phrase": "어디로요?",
+    "audio_path": "154.mp3",
+    "id": 256
+  },
+  {
+    "unit": "Unit_17",
+    "english_phrase": "I am going to speak",
+    "korean_phrase": "하겠어요",
+    "audio_path": "591.mp3",
+    "id": 257
+  },
+  {
+    "unit": "Unit_17",
+    "english_phrase": "I want to do",
+    "korean_phrase": "하고 싶어요",
+    "audio_path": "442.mp3",
+    "id": 258
+  },
+  {
+    "unit": "Unit_17",
+    "english_phrase": "card",
+    "korean_phrase": "카드",
+    "audio_path": "381.mp3",
+    "id": 259
+  },
+  {
+    "unit": "Unit_17",
+    "english_phrase": "fifty",
+    "korean_phrase": "오십",
+    "audio_path": "754.mp3",
+    "id": 260
+  },
+  {
+    "unit": "Unit_17",
+    "english_phrase": "fifty-one",
+    "korean_phrase": "오십일",
+    "audio_path": "1402.mp3",
+    "id": 261
+  },
+  {
+    "unit": "Unit_17",
+    "english_phrase": "fifty-four",
+    "korean_phrase": "오십사",
+    "audio_path": "1383.mp3",
+    "id": 262
+  },
+  {
+    "unit": "Unit_17",
+    "english_phrase": "shopping",
+    "korean_phrase": "쇼핑",
+    "audio_path": "1111.mp3",
+    "id": 263
+  },
+  {
+    "unit": "Unit_18",
+    "english_phrase": "my wife",
+    "korean_phrase": "제아내",
+    "audio_path": "951.mp3",
+    "id": 264
+  },
+  {
+    "unit": "Unit_18",
+    "english_phrase": "tea",
+    "korean_phrase": "차",
+    "audio_path": "835.mp3",
+    "id": 265
+  },
+  {
+    "unit": "Unit_18",
+    "english_phrase": "book",
+    "korean_phrase": "책",
+    "audio_path": "1011.mp3",
+    "id": 266
+  },
+  {
+    "unit": "Unit_18",
+    "english_phrase": "more",
+    "korean_phrase": "더",
+    "audio_path": "673.mp3",
+    "id": 267
+  },
+  {
+    "unit": "Unit_18",
+    "english_phrase": "my husband",
+    "korean_phrase": "제남편",
+    "audio_path": "1271.mp3",
+    "id": 268
+  },
+  {
+    "unit": "Unit_18",
+    "english_phrase": "nine thousand",
+    "korean_phrase": "구천",
+    "audio_path": "446.mp3",
+    "id": 269
+  },
+  {
+    "unit": "Unit_18",
+    "english_phrase": "husband",
+    "korean_phrase": "남편",
+    "audio_path": "92.mp3",
+    "id": 270
+  },
+  {
+    "unit": "Unit_18",
+    "english_phrase": "sandwich",
+    "korean_phrase": "샌드위치",
+    "audio_path": "403.mp3",
+    "id": 271
+  },
+  {
+    "unit": "Unit_18",
+    "english_phrase": "sixty thousand",
+    "korean_phrase": "육만",
+    "audio_path": "1665.mp3",
+    "id": 272
+  },
+  {
+    "unit": "Unit_18",
+    "english_phrase": "wife",
+    "korean_phrase": "아내",
+    "audio_path": "246.mp3",
+    "id": 273
+  },
+  {
+    "unit": "Unit_19",
+    "english_phrase": "colleague",
+    "korean_phrase": "동료",
+    "audio_path": "532.mp3",
+    "id": 274
+  },
+  {
+    "unit": "Unit_19",
+    "english_phrase": "office",
+    "korean_phrase": "회사",
+    "audio_path": "1588.mp3",
+    "id": 275
+  },
+  {
+    "unit": "Unit_19",
+    "english_phrase": "your wife",
+    "korean_phrase": "부인",
+    "audio_path": "1347.mp3",
+    "id": 276
+  },
+  {
+    "unit": "Unit_19",
+    "english_phrase": "I’m called",
+    "korean_phrase": "입니다",
+    "audio_path": "135.mp3",
+    "id": 277
+  },
+  {
+    "unit": "Unit_19",
+    "english_phrase": "that would be",
+    "korean_phrase": "이세요",
+    "audio_path": "1514.mp3",
+    "id": 278
+  },
+  {
+    "unit": "Unit_19",
+    "english_phrase": "delicious",
+    "korean_phrase": "맛",
+    "audio_path": "1309.mp3",
+    "id": 279
+  },
+  {
+    "unit": "Unit_19",
+    "english_phrase": "it is not delicious",
+    "korean_phrase": "맛없어요",
+    "audio_path": "716.mp3",
+    "id": 280
+  },
+  {
+    "unit": "Unit_19",
+    "english_phrase": "it is delicious",
+    "korean_phrase": "맛있어요",
+    "audio_path": "1176.mp3",
+    "id": 281
+  },
+  {
+    "unit": "Unit_19",
+    "english_phrase": "Come in, please.",
+    "korean_phrase": "어서오세요.",
+    "audio_path": "1178.mp3",
+    "id": 282
+  },
+  {
+    "unit": "Unit_19",
+    "english_phrase": "too",
+    "korean_phrase": "너무",
+    "audio_path": "1551.mp3",
+    "id": 283
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "is grown-up",
+    "korean_phrase": "커요",
+    "audio_path": "274.mp3",
+    "id": 284
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "how many people",
+    "korean_phrase": "몇 명",
+    "audio_path": "1015.mp3",
+    "id": 285
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "daughters",
+    "korean_phrase": "딸",
+    "audio_path": "817.mp3",
+    "id": 286
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "we live",
+    "korean_phrase": "살아요",
+    "audio_path": "457.mp3",
+    "id": 287
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "sons",
+    "korean_phrase": "아들",
+    "audio_path": "1377.mp3",
+    "id": 288
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "children",
+    "korean_phrase": "아이들",
+    "audio_path": "675.mp3",
+    "id": 289
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "is not grown-up",
+    "korean_phrase": "안 커요",
+    "audio_path": "1516.mp3",
+    "id": 290
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "dog",
+    "korean_phrase": "개",
+    "audio_path": "183.mp3",
+    "id": 291
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "three children",
+    "korean_phrase": "아이들이세명",
+    "audio_path": "384.mp3",
+    "id": 292
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "two dogs",
+    "korean_phrase": "개가두마리",
+    "audio_path": "656.mp3",
+    "id": 293
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "big",
+    "korean_phrase": "커",
+    "audio_path": "1253.mp3",
+    "id": 294
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "What are you bringing to the party? (casual)",
+    "korean_phrase": "파티에 뭘 가져갈 거야?",
+    "audio_path": "1194.mp3",
+    "id": 295
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "Thanks for inviting me.",
+    "korean_phrase": "초대해 주셔서 고맙습니다.",
+    "audio_path": "1406.mp3",
+    "id": 296
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "This is my house.",
+    "korean_phrase": "여기가 제 집이에요.",
+    "audio_path": "1265.mp3",
+    "id": 297
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "I live in a studio apartment.",
+    "korean_phrase": "원룸에 살고 있어요.",
+    "audio_path": "1358.mp3",
+    "id": 298
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "Do you live alone?",
+    "korean_phrase": "혼자 살아요?",
+    "audio_path": "588.mp3",
+    "id": 299
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "I have a black puppy.",
+    "korean_phrase": "검은색 강아지가 있어요.",
+    "audio_path": "1323.mp3",
+    "id": 300
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "Are you married?",
+    "korean_phrase": "결혼하셨나요?",
+    "audio_path": "637.mp3",
+    "id": 301
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "No, I’m not married.",
+    "korean_phrase": "아니요, 결혼 안 했어요.\n,",
+    "audio_path": "438.mp3",
+    "id": 302
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "My younger sister wants to eat kimchi.",
+    "korean_phrase": "여동생이 김치를 먹고 싶어해요.",
+    "audio_path": "924.mp3",
+    "id": 303
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "I have a younger brother.",
+    "korean_phrase": "남동생이 한 명 있어요.",
+    "audio_path": "45.mp3",
+    "id": 304
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "I’m going to have chi-maek with my girlfriend.",
+    "korean_phrase": "여자친구랑 치맥 먹을 거예요.",
+    "audio_path": "318.mp3",
+    "id": 305
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "Don’t be late tomorrow.",
+    "korean_phrase": "내일 늦지 마세요.",
+    "audio_path": "126.mp3",
+    "id": 306
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "I don’t feel well.",
+    "korean_phrase": "몸이 안 좋아요.",
+    "audio_path": "601.mp3",
+    "id": 307
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "I didn’t quite catch that.",
+    "korean_phrase": "잘 못 들었어요.",
+    "audio_path": "1635.mp3",
+    "id": 308
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "Can you say it again slowly?",
+    "korean_phrase": "다시 천천히 말해 줄 수 있나요?",
+    "audio_path": "712.mp3",
+    "id": 309
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "Is it not enough?",
+    "korean_phrase": "부족한가요?",
+    "audio_path": "1607.mp3",
+    "id": 310
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "It's only a thousand won? Awesome! (slang)",
+    "korean_phrase": "단돈 천 원? 대박!",
+    "audio_path": "205.mp3",
+    "id": 311
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "Your dog is so cute.",
+    "korean_phrase": "개가 너무 귀여워요.",
+    "audio_path": "1727.mp3",
+    "id": 312
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "My bag is heavy.",
+    "korean_phrase": "가방이 무거워요.",
+    "audio_path": "127.mp3",
+    "id": 313
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "There is a book in my bag.",
+    "korean_phrase": "가방 속에 책이 있어요.",
+    "audio_path": "1581.mp3",
+    "id": 314
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "I have to go to the lecture hall.",
+    "korean_phrase": "강의실에 가야 해요.",
+    "audio_path": "437.mp3",
+    "id": 315
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "This is an important document.",
+    "korean_phrase": "이건 중요한 서류예요.",
+    "audio_path": "1612.mp3",
+    "id": 316
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "Please call me a taxi.",
+    "korean_phrase": "택시를 불러 주세요.",
+    "audio_path": "285.mp3",
+    "id": 317
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "The taxi fare is expensive.",
+    "korean_phrase": "택시비가 비싸요.",
+    "audio_path": "232.mp3",
+    "id": 318
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "I have a headache.",
+    "korean_phrase": "머리가 아파요.",
+    "audio_path": "323.mp3",
+    "id": 319
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "That’s my boyfriend. (slang)",
+    "korean_phrase": "내 남친이야.\n .",
+    "audio_path": "938.mp3",
+    "id": 320
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "I need to go to a drugstore.",
+    "korean_phrase": "나는 약국에 가야 해요.",
+    "audio_path": "1165.mp3",
+    "id": 321
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "It’s next to the bus stop.",
+    "korean_phrase": "버스정류장 옆에 있어요.",
+    "audio_path": "1026.mp3",
+    "id": 322
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "It’s near the market.",
+    "korean_phrase": "마트 근처에 있어요.",
+    "audio_path": "1523.mp3",
+    "id": 323
+  },
+  {
+    "unit": "Unit_20",
+    "english_phrase": "I want to take a break.",
+    "korean_phrase": "저는 쉬고 싶어요.",
+    "audio_path": "1624.mp3",
+    "id": 324
+  },
+  {
+    "unit": "Unit_21",
+    "english_phrase": "still",
+    "korean_phrase": "아직",
+    "audio_path": "1757.mp3",
+    "id": 325
+  },
+  {
+    "unit": "Unit_21",
+    "english_phrase": "bank",
+    "korean_phrase": "은행",
+    "audio_path": "1305.mp3",
+    "id": 326
+  },
+  {
+    "unit": "Unit_21",
+    "english_phrase": "is young",
+    "korean_phrase": "어려요",
+    "audio_path": "82.mp3",
+    "id": 327
+  },
+  {
+    "unit": "Unit_21",
+    "english_phrase": "cat",
+    "korean_phrase": "고양이",
+    "audio_path": "352.mp3",
+    "id": 328
+  },
+  {
+    "unit": "Unit_21",
+    "english_phrase": " along with ",
+    "korean_phrase": "하고 같이",
+    "audio_path": "978.mp3",
+    "id": 329
+  },
+  {
+    "unit": "Unit_21",
+    "english_phrase": "restroom",
+    "korean_phrase": "화장실",
+    "audio_path": "685.mp3",
+    "id": 330
+  },
+  {
+    "unit": "Unit_21",
+    "english_phrase": "they are",
+    "korean_phrase": "있어요",
+    "audio_path": "894.mp3",
+    "id": 331
+  },
+  {
+    "unit": "Unit_21",
+    "english_phrase": "one cat",
+    "korean_phrase": "고양이가한마리",
+    "audio_path": "428.mp3",
+    "id": 332
+  },
+  {
+    "unit": "Unit_21",
+    "english_phrase": "grown-up son",
+    "korean_phrase": "큰아들",
+    "audio_path": "112.mp3",
+    "id": 333
+  },
+  {
+    "unit": "Unit_21",
+    "english_phrase": "Is that so?",
+    "korean_phrase": "그러세요?",
+    "audio_path": "394.mp3",
+    "id": 334
+  },
+  {
+    "unit": "Unit_22",
+    "english_phrase": "a hundred",
+    "korean_phrase": "백",
+    "audio_path": "44.mp3",
+    "id": 335
+  },
+  {
+    "unit": "Unit_22",
+    "english_phrase": "gasoline",
+    "korean_phrase": "기름",
+    "audio_path": "1217.mp3",
+    "id": 336
+  },
+  {
+    "unit": "Unit_22",
+    "english_phrase": "bathroom",
+    "korean_phrase": "화장실",
+    "audio_path": "723.mp3",
+    "id": 337
+  },
+  {
+    "unit": "Unit_22",
+    "english_phrase": "is small",
+    "korean_phrase": "작아요",
+    "audio_path": "1373.mp3",
+    "id": 338
+  },
+  {
+    "unit": "Unit_22",
+    "english_phrase": "family",
+    "korean_phrase": "가족",
+    "audio_path": "1423.mp3",
+    "id": 339
+  },
+  {
+    "unit": "Unit_22",
+    "english_phrase": "kilometers",
+    "korean_phrase": "킬로",
+    "audio_path": "563.mp3",
+    "id": 340
+  },
+  {
+    "unit": "Unit_22",
+    "english_phrase": "liters",
+    "korean_phrase": "리터",
+    "audio_path": "764.mp3",
+    "id": 341
+  },
+  {
+    "unit": "Unit_22",
+    "english_phrase": "they live",
+    "korean_phrase": "살아요",
+    "audio_path": "868.mp3",
+    "id": 342
+  },
+  {
+    "unit": "Unit_22",
+    "english_phrase": "Korea",
+    "korean_phrase": "한국",
+    "audio_path": "279.mp3",
+    "id": 343
+  },
+  {
+    "unit": "Unit_23",
+    "english_phrase": "bus",
+    "korean_phrase": "버스",
+    "audio_path": "1742.mp3",
+    "id": 344
+  },
+  {
+    "unit": "Unit_23",
+    "english_phrase": "by bus",
+    "korean_phrase": "버스로",
+    "audio_path": "798.mp3",
+    "id": 345
+  },
+  {
+    "unit": "Unit_23",
+    "english_phrase": "by car",
+    "korean_phrase": "차로",
+    "audio_path": "996.mp3",
+    "id": 346
+  },
+  {
+    "unit": "Unit_23",
+    "english_phrase": "fill",
+    "korean_phrase": "채워",
+    "audio_path": "1282.mp3",
+    "id": 347
+  },
+  {
+    "unit": "Unit_23",
+    "english_phrase": "bill",
+    "korean_phrase": "계산서",
+    "audio_path": "107.mp3",
+    "id": 348
+  },
+  {
+    "unit": "Unit_23",
+    "english_phrase": "train",
+    "korean_phrase": "기차",
+    "audio_path": "1007.mp3",
+    "id": 349
+  },
+  {
+    "unit": "Unit_23",
+    "english_phrase": "by train",
+    "korean_phrase": "기차로",
+    "audio_path": "1326.mp3",
+    "id": 350
+  },
+  {
+    "unit": "Unit_23",
+    "english_phrase": "first grade",
+    "korean_phrase": "일학년",
+    "audio_path": "576.mp3",
+    "id": 351
+  },
+  {
+    "unit": "Unit_23",
+    "english_phrase": "second grade",
+    "korean_phrase": "이학년",
+    "audio_path": "1195.mp3",
+    "id": 352
+  },
+  {
+    "unit": "Unit_23",
+    "english_phrase": "please give me",
+    "korean_phrase": "좀 주세요",
+    "audio_path": "315.mp3",
+    "id": 353
+  },
+  {
+    "unit": "Unit_24",
+    "english_phrase": "seventy-five",
+    "korean_phrase": "칠십오",
+    "audio_path": "407.mp3",
+    "id": 354
+  },
+  {
+    "unit": "Unit_24",
+    "english_phrase": "how",
+    "korean_phrase": "어떻게",
+    "audio_path": "1589.mp3",
+    "id": 355
+  },
+  {
+    "unit": "Unit_24",
+    "english_phrase": "highway",
+    "korean_phrase": "고속도로",
+    "audio_path": "509.mp3",
+    "id": 356
+  },
+  {
+    "unit": "Unit_24",
+    "english_phrase": "by highway",
+    "korean_phrase": "고속도로로",
+    "audio_path": "379.mp3",
+    "id": 357
+  },
+  {
+    "unit": "Unit_24",
+    "english_phrase": "side",
+    "korean_phrase": "쪽",
+    "audio_path": "899.mp3",
+    "id": 358
+  },
+  {
+    "unit": "Unit_24",
+    "english_phrase": "way",
+    "korean_phrase": "길",
+    "audio_path": "952.mp3",
+    "id": 359
+  },
+  {
+    "unit": "Unit_24",
+    "english_phrase": "fifth grade",
+    "korean_phrase": "오학년",
+    "audio_path": "873.mp3",
+    "id": 360
+  },
+  {
+    "unit": "Unit_24",
+    "english_phrase": "left",
+    "korean_phrase": "왼",
+    "audio_path": "864.mp3",
+    "id": 361
+  },
+  {
+    "unit": "Unit_24",
+    "english_phrase": "on the left",
+    "korean_phrase": "왼쪽",
+    "audio_path": "547.mp3",
+    "id": 362
+  },
+  {
+    "unit": "Unit_24",
+    "english_phrase": "right",
+    "korean_phrase": "오른",
+    "audio_path": "1039.mp3",
+    "id": 363
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "not late",
+    "korean_phrase": "안 늦",
+    "audio_path": "633.mp3",
+    "id": 364
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "already",
+    "korean_phrase": "벌써",
+    "audio_path": "757.mp3",
+    "id": 365
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "general stores",
+    "korean_phrase": "가게들",
+    "audio_path": "113.mp3",
+    "id": 366
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "late",
+    "korean_phrase": "늦",
+    "audio_path": "577.mp3",
+    "id": 367
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "it’s late",
+    "korean_phrase": "늦었어요",
+    "audio_path": "261.mp3",
+    "id": 368
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "convenience store",
+    "korean_phrase": "편의점",
+    "audio_path": "1489.mp3",
+    "id": 369
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "because it’s late",
+    "korean_phrase": "늦었으니까요",
+    "audio_path": "1769.mp3",
+    "id": 370
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "convenience stores",
+    "korean_phrase": "편의점들",
+    "audio_path": "494.mp3",
+    "id": 371
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "hours",
+    "korean_phrase": "시간",
+    "audio_path": "1549.mp3",
+    "id": 372
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Why?",
+    "korean_phrase": "왜요?",
+    "audio_path": "1487.mp3",
+    "id": 373
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "from here",
+    "korean_phrase": "여기서",
+    "audio_path": "664.mp3",
+    "id": 374
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "I really like the song playing now.",
+    "korean_phrase": "지금 나오는 노래 정말 좋아요.",
+    "audio_path": "1775.mp3",
+    "id": 375
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "How do I use this?",
+    "korean_phrase": "이걸 어떻게 사용하나요?",
+    "audio_path": "705.mp3",
+    "id": 376
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "I'm sleepy.",
+    "korean_phrase": "졸려요.\n.",
+    "audio_path": "362.mp3",
+    "id": 377
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "I have jet lag.",
+    "korean_phrase": "시차 적응이 안 돼요.",
+    "audio_path": "927.mp3",
+    "id": 378
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "It’s a 24-hour convenience store.",
+    "korean_phrase": "이십사 시간 편의점이에요.",
+    "audio_path": "32.mp3",
+    "id": 379
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Don’t cut in line.",
+    "korean_phrase": "새치기하지 마세요.",
+    "audio_path": "1718.mp3",
+    "id": 380
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "What a nice car!",
+    "korean_phrase": "멋진 자동차네요!",
+    "audio_path": "497.mp3",
+    "id": 381
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "This is a rental car.",
+    "korean_phrase": "이건 렌터카예요.",
+    "audio_path": "1682.mp3",
+    "id": 382
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Is there a GPS?",
+    "korean_phrase": "네비게이션이 있나요?",
+    "audio_path": "115.mp3",
+    "id": 383
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Is it diesel?",
+    "korean_phrase": "이거는 디젤인가요?",
+    "audio_path": "1522.mp3",
+    "id": 384
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Please fill it up to ten thousand won.",
+    "korean_phrase": "만 원치 채워 주세요.",
+    "audio_path": "616.mp3",
+    "id": 385
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "How much is the carwash?",
+    "korean_phrase": "세차는 얼마예요?",
+    "audio_path": "676.mp3",
+    "id": 386
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "I have to charge my bus card.",
+    "korean_phrase": "버스카드 충전 해야 해요.",
+    "audio_path": "1105.mp3",
+    "id": 387
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "The road is narrow.",
+    "korean_phrase": "도로가 좁아요.",
+    "audio_path": "986.mp3",
+    "id": 388
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "I’m lost.",
+    "korean_phrase": "길을 잃었어요.",
+    "audio_path": "1552.mp3",
+    "id": 389
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Please help me.",
+    "korean_phrase": "도와주세요.",
+    "audio_path": "396.mp3",
+    "id": 390
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Where are we now?",
+    "korean_phrase": "지금 우리 어디에 있나요?",
+    "audio_path": "415.mp3",
+    "id": 391
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Can you drive?",
+    "korean_phrase": "운전할 수 있어요?",
+    "audio_path": "1127.mp3",
+    "id": 392
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Yes, I can.",
+    "korean_phrase": "네, 할 수 있어요.\n,",
+    "audio_path": "1038.mp3",
+    "id": 393
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Maybe.",
+    "korean_phrase": "아마도요.\n.",
+    "audio_path": "639.mp3",
+    "id": 394
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Do you have a driver’s license?",
+    "korean_phrase": "운전 면허증 있어요?",
+    "audio_path": "1485.mp3",
+    "id": 395
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Where is my seat?",
+    "korean_phrase": "제 자리가 어디예요?",
+    "audio_path": "1104.mp3",
+    "id": 396
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "This is my seat.",
+    "korean_phrase": "여기가 제 자리예요.",
+    "audio_path": "43.mp3",
+    "id": 397
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "What time will the show end?",
+    "korean_phrase": "쇼는 몇 시에 끝나나요?",
+    "audio_path": "1096.mp3",
+    "id": 398
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Where is the parking lot?",
+    "korean_phrase": "주차장이 어디예요?",
+    "audio_path": "531.mp3",
+    "id": 399
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "It’s at the end of the road.",
+    "korean_phrase": "길 끝에 있어요.",
+    "audio_path": "821.mp3",
+    "id": 400
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "The parking lot is small.",
+    "korean_phrase": "주차장이 작아요.",
+    "audio_path": "419.mp3",
+    "id": 401
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "How can I get to the mall?",
+    "korean_phrase": "쇼핑몰에 어떻게 가나요?",
+    "audio_path": "355.mp3",
+    "id": 402
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "What kind of car is it?",
+    "korean_phrase": "어떤 차예요?",
+    "audio_path": "1490.mp3",
+    "id": 403
+  },
+  {
+    "unit": "Unit_25",
+    "english_phrase": "Where can I rent a car?",
+    "korean_phrase": "어디서 차를 빌릴 수 있나요?",
+    "audio_path": "1138.mp3",
+    "id": 404
+  },
+  {
+    "unit": "Unit_26",
+    "english_phrase": "a few kilometers",
+    "korean_phrase": "이, 삼 킬로",
+    "audio_path": "9.mp3",
+    "id": 405
+  },
+  {
+    "unit": "Unit_26",
+    "english_phrase": "a few days",
+    "korean_phrase": "이, 삼 일",
+    "audio_path": "887.mp3",
+    "id": 406
+  },
+  {
+    "unit": "Unit_26",
+    "english_phrase": "days",
+    "korean_phrase": "일",
+    "audio_path": "179.mp3",
+    "id": 407
+  },
+  {
+    "unit": "Unit_26",
+    "english_phrase": "I will probably do some work",
+    "korean_phrase": "일할 거예요",
+    "audio_path": "466.mp3",
+    "id": 408
+  },
+  {
+    "unit": "Unit_26",
+    "english_phrase": "a few friends",
+    "korean_phrase": "친구들 두, 세명",
+    "audio_path": "1740.mp3",
+    "id": 409
+  },
+  {
+    "unit": "Unit_26",
+    "english_phrase": "maybe",
+    "korean_phrase": "아마",
+    "audio_path": "778.mp3",
+    "id": 410
+  },
+  {
+    "unit": "Unit_26",
+    "english_phrase": "friends",
+    "korean_phrase": "친구들",
+    "audio_path": "556.mp3",
+    "id": 411
+  },
+  {
+    "unit": "Unit_26",
+    "english_phrase": "during",
+    "korean_phrase": "동안",
+    "audio_path": "845.mp3",
+    "id": 412
+  },
+  {
+    "unit": "Unit_26",
+    "english_phrase": "a few people",
+    "korean_phrase": "두, 세 명",
+    "audio_path": "41.mp3",
+    "id": 413
+  },
+  {
+    "unit": "Unit_26",
+    "english_phrase": "drinks",
+    "korean_phrase": "음료수",
+    "audio_path": "895.mp3",
+    "id": 414
+  },
+  {
+    "unit": "Unit_27",
+    "english_phrase": "return",
+    "korean_phrase": "돌아가",
+    "audio_path": "846.mp3",
+    "id": 415
+  },
+  {
+    "unit": "Unit_27",
+    "english_phrase": "I want to return",
+    "korean_phrase": "돌아가고 싶어요",
+    "audio_path": "1000.mp3",
+    "id": 416
+  },
+  {
+    "unit": "Unit_27",
+    "english_phrase": "you are returning",
+    "korean_phrase": "돌아가세요",
+    "audio_path": "889.mp3",
+    "id": 417
+  },
+  {
+    "unit": "Unit_27",
+    "english_phrase": "how about?",
+    "korean_phrase": "어때요?",
+    "audio_path": "1230.mp3",
+    "id": 418
+  },
+  {
+    "unit": "Unit_27",
+    "english_phrase": "I am returning",
+    "korean_phrase": "돌아가요",
+    "audio_path": "281.mp3",
+    "id": 419
+  },
+  {
+    "unit": "Unit_27",
+    "english_phrase": "from there",
+    "korean_phrase": "거기서",
+    "audio_path": "1736.mp3",
+    "id": 420
+  },
+  {
+    "unit": "Unit_27",
+    "english_phrase": "to America",
+    "korean_phrase": "미국으로",
+    "audio_path": "867.mp3",
+    "id": 421
+  },
+  {
+    "unit": "Unit_27",
+    "english_phrase": "taxi",
+    "korean_phrase": "택시",
+    "audio_path": "1634.mp3",
+    "id": 422
+  },
+  {
+    "unit": "Unit_27",
+    "english_phrase": "by taxi",
+    "korean_phrase": "택시로",
+    "audio_path": "1168.mp3",
+    "id": 423
+  },
+  {
+    "unit": "Unit_27",
+    "english_phrase": "I will probably buy",
+    "korean_phrase": "살 거예요",
+    "audio_path": "1405.mp3",
+    "id": 424
+  },
+  {
+    "unit": "Unit_28",
+    "english_phrase": "since",
+    "korean_phrase": "부터",
+    "audio_path": "981.mp3",
+    "id": 425
+  },
+  {
+    "unit": "Unit_28",
+    "english_phrase": "Since when?",
+    "korean_phrase": "언제부터?",
+    "audio_path": "808.mp3",
+    "id": 426
+  },
+  {
+    "unit": "Unit_28",
+    "english_phrase": "alone",
+    "korean_phrase": "혼자",
+    "audio_path": "453.mp3",
+    "id": 427
+  },
+  {
+    "unit": "Unit_28",
+    "english_phrase": "ago",
+    "korean_phrase": "전",
+    "audio_path": "1247.mp3",
+    "id": 428
+  },
+  {
+    "unit": "Unit_28",
+    "english_phrase": "spend",
+    "korean_phrase": "지내",
+    "audio_path": "731.mp3",
+    "id": 429
+  },
+  {
+    "unit": "Unit_28",
+    "english_phrase": "we want to spend",
+    "korean_phrase": "지내고 싶어요",
+    "audio_path": "1295.mp3",
+    "id": 430
+  },
+  {
+    "unit": "Unit_28",
+    "english_phrase": "weeks",
+    "korean_phrase": "주",
+    "audio_path": "1720.mp3",
+    "id": 431
+  },
+  {
+    "unit": "Unit_28",
+    "english_phrase": "we are going",
+    "korean_phrase": "가요",
+    "audio_path": "586.mp3",
+    "id": 432
+  },
+  {
+    "unit": "Unit_28",
+    "english_phrase": "what",
+    "korean_phrase": "무슨",
+    "audio_path": "1155.mp3",
+    "id": 433
+  },
+  {
+    "unit": "Unit_28",
+    "english_phrase": "Here it is.",
+    "korean_phrase": "여기에",
+    "audio_path": "507.mp3",
+    "id": 434
+  },
+  {
+    "unit": "Unit_29",
+    "english_phrase": "I haven’t eaten",
+    "korean_phrase": "안 먹었어요",
+    "audio_path": "1052.mp3",
+    "id": 435
+  },
+  {
+    "unit": "Unit_29",
+    "english_phrase": "yesterday",
+    "korean_phrase": "어제",
+    "audio_path": "335.mp3",
+    "id": 436
+  },
+  {
+    "unit": "Unit_29",
+    "english_phrase": "sightseeing",
+    "korean_phrase": "관광",
+    "audio_path": "312.mp3",
+    "id": 437
+  },
+  {
+    "unit": "Unit_29",
+    "english_phrase": "do sightseeing",
+    "korean_phrase": "관광하",
+    "audio_path": "860.mp3",
+    "id": 438
+  },
+  {
+    "unit": "Unit_29",
+    "english_phrase": "one week",
+    "korean_phrase": "일주일",
+    "audio_path": "506.mp3",
+    "id": 439
+  },
+  {
+    "unit": "Unit_29",
+    "english_phrase": "I like",
+    "korean_phrase": "좋아해요",
+    "audio_path": "486.mp3",
+    "id": 440
+  },
+  {
+    "unit": "Unit_29",
+    "english_phrase": "you like",
+    "korean_phrase": "좋아하세요",
+    "audio_path": "1228.mp3",
+    "id": 441
+  },
+  {
+    "unit": "Unit_29",
+    "english_phrase": "ninety",
+    "korean_phrase": "구 십",
+    "audio_path": "1010.mp3",
+    "id": 442
+  },
+  {
+    "unit": "Unit_29",
+    "english_phrase": "I came",
+    "korean_phrase": "왔어요",
+    "audio_path": "1218.mp3",
+    "id": 443
+  },
+  {
+    "unit": "Unit_29",
+    "english_phrase": "you bought",
+    "korean_phrase": "사셨어요",
+    "audio_path": "98.mp3",
+    "id": 444
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I didn’t buy",
+    "korean_phrase": "안 샀어요",
+    "audio_path": "1572.mp3",
+    "id": 445
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "word",
+    "korean_phrase": "단어",
+    "audio_path": "811.mp3",
+    "id": 446
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "yesterday morning",
+    "korean_phrase": "어제 아침",
+    "audio_path": "1690.mp3",
+    "id": 447
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I will give you perfume as a gift.",
+    "korean_phrase": "향수를 선물할 거예요.",
+    "audio_path": "988.mp3",
+    "id": 448
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "Are you coming to the party today? (casual)",
+    "korean_phrase": "오늘 파티에 올 거야?",
+    "audio_path": "1762.mp3",
+    "id": 449
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I'm going to travel alone.",
+    "korean_phrase": "혼자 여행 갈 거예요.",
+    "audio_path": "724.mp3",
+    "id": 450
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "Where did you go yesterday? (casual)",
+    "korean_phrase": "어제 어디 갔었어?",
+    "audio_path": "703.mp3",
+    "id": 451
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I’m back from a vacation trip.",
+    "korean_phrase": "휴가 여행에서 돌아왔어요.",
+    "audio_path": "349.mp3",
+    "id": 452
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I didn’t have time.",
+    "korean_phrase": " 시간이 없었어요.",
+    "audio_path": "662.mp3",
+    "id": 453
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I will leave tomorrow.",
+    "korean_phrase": "내일 떠날 예정이에요.",
+    "audio_path": "1739.mp3",
+    "id": 454
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "What day do you prefer this week?",
+    "korean_phrase": "이번 주중에 언제가 좋아요?",
+    "audio_path": "71.mp3",
+    "id": 455
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I need a tourist brochure.",
+    "korean_phrase": "관광책자가 필요해요.",
+    "audio_path": "695.mp3",
+    "id": 456
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I’m going with my best friend.",
+    "korean_phrase": "제일 친한 친구랑 갈 거예요.",
+    "audio_path": "885.mp3",
+    "id": 457
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I miss my family.",
+    "korean_phrase": "가족이 그리워요.",
+    "audio_path": "1655.mp3",
+    "id": 458
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "Watch out!",
+    "korean_phrase": "조심해요!",
+    "audio_path": "973.mp3",
+    "id": 459
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "Do you have any travel plans?",
+    "korean_phrase": "여행 계획이 있나요?",
+    "audio_path": "855.mp3",
+    "id": 460
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I shop online.",
+    "korean_phrase": "나는 온라인 쇼핑을 해요.",
+    "audio_path": "1231.mp3",
+    "id": 461
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "Tomorrow is our wedding anniversary.",
+    "korean_phrase": "내일은 결혼 기념일이에요.",
+    "audio_path": "422.mp3",
+    "id": 462
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "It’s been two years since I came to Korea.",
+    "korean_phrase": "한국에 온지 이 년 되었어요.",
+    "audio_path": "1579.mp3",
+    "id": 463
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I’m on vacation for a month.",
+    "korean_phrase": "한 달 동안 휴가예요.",
+    "audio_path": "983.mp3",
+    "id": 464
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I’m going to go to Korea.",
+    "korean_phrase": " 한국으로 갈 예정이에요.",
+    "audio_path": "343.mp3",
+    "id": 465
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I like this place.",
+    "korean_phrase": "이곳이 좋아요.",
+    "audio_path": "739.mp3",
+    "id": 466
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "Korea is a beautiful country.",
+    "korean_phrase": "한국은 아름다운 나라예요.",
+    "audio_path": "49.mp3",
+    "id": 467
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "How can I get to Gyeongbok Palace?",
+    "korean_phrase": "경복궁에 어떻게 가나요?",
+    "audio_path": "746.mp3",
+    "id": 468
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "bag",
+    "korean_phrase": "가방",
+    "audio_path": "1082.mp3",
+    "id": 469
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "how do you say",
+    "korean_phrase": "어떻게 말해요",
+    "audio_path": "1456.mp3",
+    "id": 470
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "in Korean",
+    "korean_phrase": "한국말로",
+    "audio_path": "1359.mp3",
+    "id": 471
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I went",
+    "korean_phrase": "갔어요",
+    "audio_path": "1474.mp3",
+    "id": 472
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "say",
+    "korean_phrase": "말해요",
+    "audio_path": "306.mp3",
+    "id": 473
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "hat",
+    "korean_phrase": "모자",
+    "audio_path": "1750.mp3",
+    "id": 474
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "this morning",
+    "korean_phrase": "오늘 아침",
+    "audio_path": "483.mp3",
+    "id": 475
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I’m on a trip.",
+    "korean_phrase": "여행 왔어요.",
+    "audio_path": "248.mp3",
+    "id": 476
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "What time are you leaving tomorrow?",
+    "korean_phrase": "내일 몇 시에 떠나시나요?",
+    "audio_path": "561.mp3",
+    "id": 477
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I want to stay here for a week.",
+    "korean_phrase": "일주일 동안 있고 싶어요. ",
+    "audio_path": "370.mp3",
+    "id": 478
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "The drink is sweet.",
+    "korean_phrase": "음료수가 달아요. ",
+    "audio_path": "1244.mp3",
+    "id": 479
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "It’s a four-hour flight.",
+    "korean_phrase": "네 시간 비행이에요.",
+    "audio_path": "1219.mp3",
+    "id": 480
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "What do you recommend for a souvenir?",
+    "korean_phrase": "기념품으로 어떤 것을 추천하시나요?",
+    "audio_path": "1631.mp3",
+    "id": 481
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I’d like to try on the hanbok.",
+    "korean_phrase": "한복을 입어보고 싶어요.",
+    "audio_path": "907.mp3",
+    "id": 482
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "I want to go with my boyfriend. (casual)",
+    "korean_phrase": "남자친구랑 함께 가고 싶어.",
+    "audio_path": "758.mp3",
+    "id": 483
+  },
+  {
+    "unit": "Unit_30",
+    "english_phrase": "It hasn’t arrived yet.",
+    "korean_phrase": "아직 도착 안 했어요.",
+    "audio_path": "166.mp3",
+    "id": 484
+  },
+  {
+    "unit": "Unit_31",
+    "english_phrase": "Not yet.",
+    "korean_phrase": "아직요.",
+    "audio_path": "87.mp3",
+    "id": 485
+  },
+  {
+    "unit": "Unit_31",
+    "english_phrase": "much",
+    "korean_phrase": "별로",
+    "audio_path": "840.mp3",
+    "id": 486
+  },
+  {
+    "unit": "Unit_31",
+    "english_phrase": "extremely",
+    "korean_phrase": "참",
+    "audio_path": "75.mp3",
+    "id": 487
+  },
+  {
+    "unit": "Unit_31",
+    "english_phrase": "yesterday afternoon",
+    "korean_phrase": "어제 오후",
+    "audio_path": "582.mp3",
+    "id": 488
+  },
+  {
+    "unit": "Unit_31",
+    "english_phrase": "I did",
+    "korean_phrase": "했어요",
+    "audio_path": "476.mp3",
+    "id": 489
+  },
+  {
+    "unit": "Unit_31",
+    "english_phrase": "you did",
+    "korean_phrase": "하셨어요",
+    "audio_path": "1574.mp3",
+    "id": 490
+  },
+  {
+    "unit": "Unit_31",
+    "english_phrase": "weeks",
+    "korean_phrase": "주일",
+    "audio_path": "1548.mp3",
+    "id": 491
+  },
+  {
+    "unit": "Unit_31",
+    "english_phrase": "something to drink",
+    "korean_phrase": "마실 것",
+    "audio_path": "636.mp3",
+    "id": 492
+  },
+  {
+    "unit": "Unit_31",
+    "english_phrase": "afternoon",
+    "korean_phrase": "오후",
+    "audio_path": "161.mp3",
+    "id": 493
+  },
+  {
+    "unit": "Unit_31",
+    "english_phrase": "bookstore",
+    "korean_phrase": "서점",
+    "audio_path": "1543.mp3",
+    "id": 494
+  },
+  {
+    "unit": "Unit_32",
+    "english_phrase": "Won’t you go?",
+    "korean_phrase": "안 갈래요?",
+    "audio_path": "720.mp3",
+    "id": 495
+  },
+  {
+    "unit": "Unit_32",
+    "english_phrase": "I was busy",
+    "korean_phrase": "바빴어요",
+    "audio_path": "699.mp3",
+    "id": 496
+  },
+  {
+    "unit": "Unit_32",
+    "english_phrase": "soon",
+    "korean_phrase": "이제",
+    "audio_path": "931.mp3",
+    "id": 497
+  },
+  {
+    "unit": "Unit_32",
+    "english_phrase": "I didn’t speak",
+    "korean_phrase": "안 했어요",
+    "audio_path": "647.mp3",
+    "id": 498
+  },
+  {
+    "unit": "Unit_32",
+    "english_phrase": "subway",
+    "korean_phrase": "지하철",
+    "audio_path": "1150.mp3",
+    "id": 499
+  },
+  {
+    "unit": "Unit_32",
+    "english_phrase": "by subway",
+    "korean_phrase": "지하철로",
+    "audio_path": "736.mp3",
+    "id": 500
+  },
+  {
+    "unit": "Unit_32",
+    "english_phrase": "I’d like to.",
+    "korean_phrase": "좋지요.",
+    "audio_path": "522.mp3",
+    "id": 501
+  },
+  {
+    "unit": "Unit_32",
+    "english_phrase": "lime soda",
+    "korean_phrase": "사이다",
+    "audio_path": "417.mp3",
+    "id": 502
+  },
+  {
+    "unit": "Unit_32",
+    "english_phrase": "I have to leave",
+    "korean_phrase": "가야 돼요",
+    "audio_path": "198.mp3",
+    "id": 503
+  },
+  {
+    "unit": "Unit_32",
+    "english_phrase": "have you been?",
+    "korean_phrase": "갔었어요?",
+    "audio_path": "106.mp3",
+    "id": 504
+  },
+  {
+    "unit": "Unit_33",
+    "english_phrase": "I have seen",
+    "korean_phrase": "봤어요",
+    "audio_path": "464.mp3",
+    "id": 505
+  },
+  {
+    "unit": "Unit_33",
+    "english_phrase": "place",
+    "korean_phrase": "곳",
+    "audio_path": "37.mp3",
+    "id": 506
+  },
+  {
+    "unit": "Unit_33",
+    "english_phrase": "always",
+    "korean_phrase": "항상",
+    "audio_path": "73.mp3",
+    "id": 507
+  },
+  {
+    "unit": "Unit_33",
+    "english_phrase": "white wine",
+    "korean_phrase": "화이트 와인",
+    "audio_path": "941.mp3",
+    "id": 508
+  },
+  {
+    "unit": "Unit_33",
+    "english_phrase": "nice",
+    "korean_phrase": "좋은",
+    "audio_path": "1488.mp3",
+    "id": 509
+  },
+  {
+    "unit": "Unit_33",
+    "english_phrase": "menu",
+    "korean_phrase": "메뉴",
+    "audio_path": "933.mp3",
+    "id": 510
+  },
+  {
+    "unit": "Unit_33",
+    "english_phrase": "this afternoon",
+    "korean_phrase": "오늘 오후",
+    "audio_path": "555.mp3",
+    "id": 511
+  },
+  {
+    "unit": "Unit_33",
+    "english_phrase": "red wine",
+    "korean_phrase": "레드 와인",
+    "audio_path": "1721.mp3",
+    "id": 512
+  },
+  {
+    "unit": "Unit_33",
+    "english_phrase": "A glass of wine, please.",
+    "korean_phrase": "와인 한 잔 주세요.",
+    "audio_path": "858.mp3",
+    "id": 513
+  },
+  {
+    "unit": "Unit_33",
+    "english_phrase": "Well, I don’t know.",
+    "korean_phrase": "글쎄요, 몰라요.",
+    "audio_path": "1120.mp3",
+    "id": 514
+  },
+  {
+    "unit": "Unit_34",
+    "english_phrase": "is not coming",
+    "korean_phrase": "안 와요",
+    "audio_path": "418.mp3",
+    "id": 515
+  },
+  {
+    "unit": "Unit_34",
+    "english_phrase": "again",
+    "korean_phrase": "다시",
+    "audio_path": "1029.mp3",
+    "id": 516
+  },
+  {
+    "unit": "Unit_34",
+    "english_phrase": "How long?",
+    "korean_phrase": "얼마동안?",
+    "audio_path": "777.mp3",
+    "id": 517
+  },
+  {
+    "unit": "Unit_34",
+    "english_phrase": "That’s long.",
+    "korean_phrase": "길어요.",
+    "audio_path": "865.mp3",
+    "id": 518
+  },
+  {
+    "unit": "Unit_34",
+    "english_phrase": "short",
+    "korean_phrase": "짧",
+    "audio_path": "1115.mp3",
+    "id": 519
+  },
+  {
+    "unit": "Unit_34",
+    "english_phrase": "It’s short.",
+    "korean_phrase": "짧아요.",
+    "audio_path": "961.mp3",
+    "id": 520
+  },
+  {
+    "unit": "Unit_34",
+    "english_phrase": "it was good",
+    "korean_phrase": "좋았어요",
+    "audio_path": "1122.mp3",
+    "id": 521
+  },
+  {
+    "unit": "Unit_34",
+    "english_phrase": "sometimes",
+    "korean_phrase": "종종",
+    "audio_path": "989.mp3",
+    "id": 522
+  },
+  {
+    "unit": "Unit_34",
+    "english_phrase": "Cheers!",
+    "korean_phrase": "건배!",
+    "audio_path": "1535.mp3",
+    "id": 523
+  },
+  {
+    "unit": "Unit_34",
+    "english_phrase": "years",
+    "korean_phrase": "년",
+    "audio_path": "1744.mp3",
+    "id": 524
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "Americans",
+    "korean_phrase": "미국인",
+    "audio_path": "72.mp3",
+    "id": 525
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I can’t go.",
+    "korean_phrase": "갈 수 없어요.",
+    "audio_path": "1325.mp3",
+    "id": 526
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "It will arrive soon. (casual)",
+    "korean_phrase": "곧 도착할 거야.",
+    "audio_path": "1281.mp3",
+    "id": 527
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "We have to walk to the subway station.",
+    "korean_phrase": "지하철역까지 걸어야 해요.",
+    "audio_path": "1658.mp3",
+    "id": 528
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "What are you doing after work?",
+    "korean_phrase": "일 끝나고 뭐해요?",
+    "audio_path": "592.mp3",
+    "id": 529
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "It depends on the situation.",
+    "korean_phrase": "상황에 따라 달라요.",
+    "audio_path": "896.mp3",
+    "id": 530
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "Let’s take a selfie! (slang)",
+    "korean_phrase": "셀카 찍자!",
+    "audio_path": "1307.mp3",
+    "id": 531
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "Let’s take a picture together.",
+    "korean_phrase": "사진 함께 찍어요.",
+    "audio_path": "1477.mp3",
+    "id": 532
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I have too many assignments.",
+    "korean_phrase": "과제가 너무 많아요.",
+    "audio_path": "1437.mp3",
+    "id": 533
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I’ve been studying Korean since last year.",
+    "korean_phrase": "작년부터 한국어 공부를 하고 있어요.",
+    "audio_path": "672.mp3",
+    "id": 534
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "It’s hard but fun.",
+    "korean_phrase": "어렵지만 재밌어요.",
+    "audio_path": "1712.mp3",
+    "id": 535
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I had a blind date last week.",
+    "korean_phrase": "지난주에 소개팅했어요.",
+    "audio_path": "1432.mp3",
+    "id": 536
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I hardly watch TV.",
+    "korean_phrase": "티브이는 거의 안 봐요.",
+    "audio_path": "1289.mp3",
+    "id": 537
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "How long does it take on foot?",
+    "korean_phrase": "걸어서 얼마나 걸려요?",
+    "audio_path": "16.mp3",
+    "id": 538
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "Do my glasses look good on me?",
+    "korean_phrase": "안경이 잘 어울리나요?",
+    "audio_path": "1267.mp3",
+    "id": 539
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I ran into him.",
+    "korean_phrase": "우연히 만났어요.",
+    "audio_path": "1130.mp3",
+    "id": 540
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I’m interested in fashion.",
+    "korean_phrase": "패션에 관심이 많아요.",
+    "audio_path": "1032.mp3",
+    "id": 541
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "It’s convenient to study online.",
+    "korean_phrase": "온라인으로 공부하는 것이 편해요.",
+    "audio_path": "1773.mp3",
+    "id": 542
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "Can you wait until tomorrow? (casual)",
+    "korean_phrase": "내일까지 기다릴 수 있어?",
+    "audio_path": "1125.mp3",
+    "id": 543
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I check the time habitually.",
+    "korean_phrase": "습관적으로 시간을 확인해요.",
+    "audio_path": "1442.mp3",
+    "id": 544
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I can’t eat a lot of sugary foods.",
+    "korean_phrase": "단 음식을 많이 못 먹어요.",
+    "audio_path": "229.mp3",
+    "id": 545
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "That’s my secret! (casual)",
+    "korean_phrase": "그건 나만의 비밀이야!",
+    "audio_path": "682.mp3",
+    "id": 546
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "That’s not my taste. (casual)",
+    "korean_phrase": "그건 내 취향이 아니야.",
+    "audio_path": "1609.mp3",
+    "id": 547
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "right now",
+    "korean_phrase": "방금",
+    "audio_path": "178.mp3",
+    "id": 548
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "another colleague",
+    "korean_phrase": "동료가 한 사람 더",
+    "audio_path": "795.mp3",
+    "id": 549
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "both",
+    "korean_phrase": "둘다",
+    "audio_path": "956.mp3",
+    "id": 550
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "by the way",
+    "korean_phrase": "그런데",
+    "audio_path": "611.mp3",
+    "id": 551
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "one more person",
+    "korean_phrase": "한 사람 더",
+    "audio_path": "1772.mp3",
+    "id": 552
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "His wife also came.",
+    "korean_phrase": "부인도 왔어요.",
+    "audio_path": "747.mp3",
+    "id": 553
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "Shall we go?",
+    "korean_phrase": "갈래요?",
+    "audio_path": "1344.mp3",
+    "id": 554
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "let’s go",
+    "korean_phrase": "갑시다",
+    "audio_path": "1036.mp3",
+    "id": 555
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "on foot",
+    "korean_phrase": "걸어서",
+    "audio_path": "769.mp3",
+    "id": 556
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I grew up in Spain.",
+    "korean_phrase": "스페인에서 자랐어요.",
+    "audio_path": "913.mp3",
+    "id": 557
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "Have you read this book?",
+    "korean_phrase": "이 책 읽어 봤어요?",
+    "audio_path": "593.mp3",
+    "id": 558
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "Where did you buy that necklace? (casual)",
+    "korean_phrase": "그 목걸이 어디에서 샀어?",
+    "audio_path": "1595.mp3",
+    "id": 559
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I will just look around.",
+    "korean_phrase": "그냥 구경만 할게요.",
+    "audio_path": "1355.mp3",
+    "id": 560
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "Those clothes look so good on you!",
+    "korean_phrase": "그 옷 정말 잘 어울린다!",
+    "audio_path": "877.mp3",
+    "id": 561
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "You don’t need to worry about it yet.",
+    "korean_phrase": "아직은 걱정할 필요 없어요.",
+    "audio_path": "54.mp3",
+    "id": 562
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I came to Korea two years ago.",
+    "korean_phrase": "이년 전에 한국으로 왔어요.",
+    "audio_path": "94.mp3",
+    "id": 563
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "I can’t watch horror movies.",
+    "korean_phrase": "공포영화는 못 봐요.",
+    "audio_path": "12.mp3",
+    "id": 564
+  },
+  {
+    "unit": "Unit_35",
+    "english_phrase": "Have you used this before? (casual)",
+    "korean_phrase": "이거 사용해 봤니?",
+    "audio_path": "730.mp3",
+    "id": 565
+  },
+  {
+    "unit": "Unit_36",
+    "english_phrase": "until when",
+    "korean_phrase": "언제까지",
+    "audio_path": "502.mp3",
+    "id": 566
+  },
+  {
+    "unit": "Unit_36",
+    "english_phrase": "white",
+    "korean_phrase": "하얀",
+    "audio_path": "245.mp3",
+    "id": 567
+  },
+  {
+    "unit": "Unit_36",
+    "english_phrase": "I had",
+    "korean_phrase": "있었어요",
+    "audio_path": "962.mp3",
+    "id": 568
+  },
+  {
+    "unit": "Unit_36",
+    "english_phrase": "after that",
+    "korean_phrase": "그다음에",
+    "audio_path": "744.mp3",
+    "id": 569
+  },
+  {
+    "unit": "Unit_36",
+    "english_phrase": "before that",
+    "korean_phrase": "그 전에",
+    "audio_path": "925.mp3",
+    "id": 570
+  },
+  {
+    "unit": "Unit_36",
+    "english_phrase": "until",
+    "korean_phrase": "까지",
+    "audio_path": "397.mp3",
+    "id": 571
+  },
+  {
+    "unit": "Unit_36",
+    "english_phrase": "of course",
+    "korean_phrase": "물론",
+    "audio_path": "1361.mp3",
+    "id": 572
+  },
+  {
+    "unit": "Unit_36",
+    "english_phrase": "for a long time",
+    "korean_phrase": "오랫동안",
+    "audio_path": "826.mp3",
+    "id": 573
+  },
+  {
+    "unit": "Unit_36",
+    "english_phrase": "a red T-shirt",
+    "korean_phrase": "빨간티셔츠",
+    "audio_path": "116.mp3",
+    "id": 574
+  },
+  {
+    "unit": "Unit_36",
+    "english_phrase": "T-shirts",
+    "korean_phrase": "티셔츠",
+    "audio_path": "1213.mp3",
+    "id": 575
+  },
+  {
+    "unit": "Unit_37",
+    "english_phrase": "minutes",
+    "korean_phrase": "분",
+    "audio_path": "802.mp3",
+    "id": 576
+  },
+  {
+    "unit": "Unit_37",
+    "english_phrase": "he is arriving",
+    "korean_phrase": "도착해요",
+    "audio_path": "1259.mp3",
+    "id": 577
+  },
+  {
+    "unit": "Unit_37",
+    "english_phrase": "on Monday",
+    "korean_phrase": "월요일에",
+    "audio_path": "654.mp3",
+    "id": 578
+  },
+  {
+    "unit": "Unit_37",
+    "english_phrase": "Monday",
+    "korean_phrase": "월요일",
+    "audio_path": "1172.mp3",
+    "id": 579
+  },
+  {
+    "unit": "Unit_37",
+    "english_phrase": "Tuesday",
+    "korean_phrase": "화요일",
+    "audio_path": "103.mp3",
+    "id": 580
+  },
+  {
+    "unit": "Unit_37",
+    "english_phrase": "on Tuesday",
+    "korean_phrase": "화요일에",
+    "audio_path": "303.mp3",
+    "id": 581
+  },
+  {
+    "unit": "Unit_37",
+    "english_phrase": "approximately",
+    "korean_phrase": "정도",
+    "audio_path": "854.mp3",
+    "id": 582
+  },
+  {
+    "unit": "Unit_37",
+    "english_phrase": "they used to live",
+    "korean_phrase": "살았어요",
+    "audio_path": "517.mp3",
+    "id": 583
+  },
+  {
+    "unit": "Unit_37",
+    "english_phrase": "meal",
+    "korean_phrase": "식사",
+    "audio_path": "1018.mp3",
+    "id": 584
+  },
+  {
+    "unit": "Unit_37",
+    "english_phrase": "package",
+    "korean_phrase": "소포",
+    "audio_path": "31.mp3",
+    "id": 585
+  },
+  {
+    "unit": "Unit_38",
+    "english_phrase": "how about it?",
+    "korean_phrase": "어때요?",
+    "audio_path": "618.mp3",
+    "id": 586
+  },
+  {
+    "unit": "Unit_38",
+    "english_phrase": "in order to see",
+    "korean_phrase": "보러",
+    "audio_path": "539.mp3",
+    "id": 587
+  },
+  {
+    "unit": "Unit_38",
+    "english_phrase": "If you don’t mind.",
+    "korean_phrase": "괜찮으시면.",
+    "audio_path": "61.mp3",
+    "id": 588
+  },
+  {
+    "unit": "Unit_38",
+    "english_phrase": "Friday",
+    "korean_phrase": "금요일",
+    "audio_path": "859.mp3",
+    "id": 589
+  },
+  {
+    "unit": "Unit_38",
+    "english_phrase": "for a drink",
+    "korean_phrase": "마시러",
+    "audio_path": "518.mp3",
+    "id": 590
+  },
+  {
+    "unit": "Unit_38",
+    "english_phrase": "let’s eat",
+    "korean_phrase": "먹읍시다",
+    "audio_path": "713.mp3",
+    "id": 591
+  },
+  {
+    "unit": "Unit_38",
+    "english_phrase": "It’s heavy.",
+    "korean_phrase": "무거워요.",
+    "audio_path": "755.mp3",
+    "id": 592
+  },
+  {
+    "unit": "Unit_38",
+    "english_phrase": "if",
+    "korean_phrase": "면",
+    "audio_path": "259.mp3",
+    "id": 593
+  },
+  {
+    "unit": "Unit_38",
+    "english_phrase": "Let’s have a meal.",
+    "korean_phrase": "식사 합시다.",
+    "audio_path": "1019.mp3",
+    "id": 594
+  },
+  {
+    "unit": "Unit_38",
+    "english_phrase": "Around one o’clock.",
+    "korean_phrase": "한 시쯤.",
+    "audio_path": "1321.mp3",
+    "id": 595
+  },
+  {
+    "unit": "Unit_39",
+    "english_phrase": "movie",
+    "korean_phrase": "영화",
+    "audio_path": "1562.mp3",
+    "id": 596
+  },
+  {
+    "unit": "Unit_39",
+    "english_phrase": "iced tea",
+    "korean_phrase": "아이스티",
+    "audio_path": "1225.mp3",
+    "id": 597
+  },
+  {
+    "unit": "Unit_39",
+    "english_phrase": "business trip",
+    "korean_phrase": "출장",
+    "audio_path": "1458.mp3",
+    "id": 598
+  },
+  {
+    "unit": "Unit_39",
+    "english_phrase": "often",
+    "korean_phrase": "자주",
+    "audio_path": "1132.mp3",
+    "id": 599
+  },
+  {
+    "unit": "Unit_39",
+    "english_phrase": "concert",
+    "korean_phrase": "콘서트",
+    "audio_path": "852.mp3",
+    "id": 600
+  },
+  {
+    "unit": "Unit_39",
+    "english_phrase": "let’s drink",
+    "korean_phrase": "마십시다",
+    "audio_path": "955.mp3",
+    "id": 601
+  },
+  {
+    "unit": "Unit_39",
+    "english_phrase": "at what time",
+    "korean_phrase": "몇 시에",
+    "audio_path": "351.mp3",
+    "id": 602
+  },
+  {
+    "unit": "Unit_39",
+    "english_phrase": "eight PM",
+    "korean_phrase": "오후여덟시",
+    "audio_path": "571.mp3",
+    "id": 603
+  },
+  {
+    "unit": "Unit_39",
+    "english_phrase": "additionally",
+    "korean_phrase": "또",
+    "audio_path": "1528.mp3",
+    "id": 604
+  },
+  {
+    "unit": "Unit_39",
+    "english_phrase": "Saturday",
+    "korean_phrase": "토요일",
+    "audio_path": "181.mp3",
+    "id": 605
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "China",
+    "korean_phrase": "중국",
+    "audio_path": "426.mp3",
+    "id": 606
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "Taiwan",
+    "korean_phrase": "대만",
+    "audio_path": "1558.mp3",
+    "id": 607
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "either milk or sugar",
+    "korean_phrase": "우유도 설탕도",
+    "audio_path": "1249.mp3",
+    "id": 608
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "ginseng tea",
+    "korean_phrase": "인삼차",
+    "audio_path": "1664.mp3",
+    "id": 609
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "ginseng liquor",
+    "korean_phrase": "인삼주",
+    "audio_path": "668.mp3",
+    "id": 610
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I drink",
+    "korean_phrase": "마셔요",
+    "audio_path": "1308.mp3",
+    "id": 611
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "sugar",
+    "korean_phrase": "설탕",
+    "audio_path": "942.mp3",
+    "id": 612
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "milk",
+    "korean_phrase": "우유",
+    "audio_path": "1530.mp3",
+    "id": 613
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "liquor",
+    "korean_phrase": "주",
+    "audio_path": "1764.mp3",
+    "id": 614
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "after this",
+    "korean_phrase": "이 다음에",
+    "audio_path": "1673.mp3",
+    "id": 615
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "meeting",
+    "korean_phrase": "미팅",
+    "audio_path": "1738.mp3",
+    "id": 616
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "What’s the name of the yellow flower?",
+    "korean_phrase": "노란 꽃 이름이 뭐예요?",
+    "audio_path": "1180.mp3",
+    "id": 617
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "My best friend is in Korea. (slang)",
+    "korean_phrase": "베프가 한국에 있어.",
+    "audio_path": "336.mp3",
+    "id": 618
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "Let’s have lunch together tomorrow! (casual)",
+    "korean_phrase": "내일 같이 점심 먹자!",
+    "audio_path": "423.mp3",
+    "id": 619
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "Do you want to work out together on Saturday? (casual)",
+    "korean_phrase": "토요일에 운동 같이 할래?",
+    "audio_path": "871.mp3",
+    "id": 620
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I have to arrive before Sunday.",
+    "korean_phrase": "일요일 전에 도착해야 해요.",
+    "audio_path": "670.mp3",
+    "id": 621
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I arrived 10 minutes early. (casual)",
+    "korean_phrase": "십분 일찍 도착했어.",
+    "audio_path": "1227.mp3",
+    "id": 622
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I’ll order for you. (casual)",
+    "korean_phrase": "내가 대신 주문할게.",
+    "audio_path": "1747.mp3",
+    "id": 623
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I’m planning to go on a trip to Gyeongju.",
+    "korean_phrase": "경주로 여행 갈 예정이에요.",
+    "audio_path": "1136.mp3",
+    "id": 624
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I’m going to the library after lunch. (casual)",
+    "korean_phrase": "점심 먹은 후에 도서관에 갈 거야.",
+    "audio_path": "830.mp3",
+    "id": 625
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "You can leave your bag there. (casual)",
+    "korean_phrase": "가방은 거기에 두면 돼.",
+    "audio_path": "1003.mp3",
+    "id": 626
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "It’ll start soon. (casual)",
+    "korean_phrase": "곧 시작될 거야.",
+    "audio_path": "132.mp3",
+    "id": 627
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I’ve been there once before.",
+    "korean_phrase": "예전에 한 번 가봤어요.",
+    "audio_path": "319.mp3",
+    "id": 628
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I’ve never been there. (casual)",
+    "korean_phrase": "한 번도 가본 적 없어.",
+    "audio_path": "765.mp3",
+    "id": 629
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I’m almost finished.",
+    "korean_phrase": "거의 다 끝냈어요. ",
+    "audio_path": "1661.mp3",
+    "id": 630
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I need a little nap time. (casual)",
+    "korean_phrase": "약간의 낮잠 시간이 필요해.",
+    "audio_path": "171.mp3",
+    "id": 631
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "Please tell me what you need.",
+    "korean_phrase": "필요한 물건을 말해 주세요.",
+    "audio_path": "1466.mp3",
+    "id": 632
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "What is the password? (slang)",
+    "korean_phrase": "비번이 뭐야?",
+    "audio_path": "1628.mp3",
+    "id": 633
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "What are you going to do on TGIF? (lit. Burning Friday) (slang)",
+    "korean_phrase": "불금에 뭐 할거야?",
+    "audio_path": "1666.mp3",
+    "id": 634
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "Can you call me again?",
+    "korean_phrase": "다시 전화해 주겠어요?",
+    "audio_path": "745.mp3",
+    "id": 635
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "Let’s talk again tomorrow. (casual)",
+    "korean_phrase": "내일 다시 얘기하자.",
+    "audio_path": "976.mp3",
+    "id": 636
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I want to watch a soccer game at dawn. (casual)",
+    "korean_phrase": "새벽에 축구 경기를 보고 싶어.",
+    "audio_path": "1392.mp3",
+    "id": 637
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "You should bring a swimsuit. (casual)",
+    "korean_phrase": "수영복을 챙겨 가야 해.",
+    "audio_path": "1422.mp3",
+    "id": 638
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "What did you do there? (casual)",
+    "korean_phrase": "거기에서 뭐 했어?",
+    "audio_path": "706.mp3",
+    "id": 639
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "It takes a lot of time to cook. (casual)",
+    "korean_phrase": "요리하는데 시간이 많이 걸려.",
+    "audio_path": "484.mp3",
+    "id": 640
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "How was your business trip?",
+    "korean_phrase": "출장은 어땠어요?",
+    "audio_path": "1068.mp3",
+    "id": 641
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I’m free on Wednesday.",
+    "korean_phrase": "수요일에 한가해요.",
+    "audio_path": "1398.mp3",
+    "id": 642
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I’m free on Wednesday. (casual)",
+    "korean_phrase": "수요일에 한가해.",
+    "audio_path": "1095.mp3",
+    "id": 643
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I’ll make a reservation. (casual)",
+    "korean_phrase": "내가 예약할게.",
+    "audio_path": "836.mp3",
+    "id": 644
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "I’ll make a reservation.",
+    "korean_phrase": "제가 예약할게요.",
+    "audio_path": "1314.mp3",
+    "id": 645
+  },
+  {
+    "unit": "Unit_40",
+    "english_phrase": "Five o’clock is early, isn’t it?",
+    "korean_phrase": "다섯 시는 이른 시간이죠?",
+    "audio_path": "760.mp3",
+    "id": 646
+  },
+  {
+    "unit": "Unit_41",
+    "english_phrase": "do you need?",
+    "korean_phrase": "필요하세요?",
+    "audio_path": "1108.mp3",
+    "id": 647
+  },
+  {
+    "unit": "Unit_41",
+    "english_phrase": "I am departing",
+    "korean_phrase": "떠나요",
+    "audio_path": "1766.mp3",
+    "id": 648
+  },
+  {
+    "unit": "Unit_41",
+    "english_phrase": "rice cake",
+    "korean_phrase": "떡",
+    "audio_path": "95.mp3",
+    "id": 649
+  },
+  {
+    "unit": "Unit_41",
+    "english_phrase": "I’m departing early.",
+    "korean_phrase": "일찍 떠나요.",
+    "audio_path": "1205.mp3",
+    "id": 650
+  },
+  {
+    "unit": "Unit_41",
+    "english_phrase": "July",
+    "korean_phrase": "칠월",
+    "audio_path": "1075.mp3",
+    "id": 651
+  },
+  {
+    "unit": "Unit_41",
+    "english_phrase": "vacation",
+    "korean_phrase": "휴가",
+    "audio_path": "1498.mp3",
+    "id": 652
+  },
+  {
+    "unit": "Unit_41",
+    "english_phrase": "early",
+    "korean_phrase": "일찍",
+    "audio_path": "199.mp3",
+    "id": 653
+  },
+  {
+    "unit": "Unit_41",
+    "english_phrase": "Thursday",
+    "korean_phrase": "목요일",
+    "audio_path": "1503.mp3",
+    "id": 654
+  },
+  {
+    "unit": "Unit_41",
+    "english_phrase": "August",
+    "korean_phrase": "팔월",
+    "audio_path": "1408.mp3",
+    "id": 655
+  },
+  {
+    "unit": "Unit_41",
+    "english_phrase": "I need",
+    "korean_phrase": "필요해요",
+    "audio_path": "1512.mp3",
+    "id": 656
+  },
+  {
+    "unit": "Unit_42",
+    "english_phrase": "It’s cold, isn’t it?",
+    "korean_phrase": "춥네요.",
+    "audio_path": "1396.mp3",
+    "id": 657
+  },
+  {
+    "unit": "Unit_42",
+    "english_phrase": "next week",
+    "korean_phrase": "다음 주",
+    "audio_path": "416.mp3",
+    "id": 658
+  },
+  {
+    "unit": "Unit_42",
+    "english_phrase": "It’s hot, isn’t it?",
+    "korean_phrase": "덥네요.",
+    "audio_path": "2.mp3",
+    "id": 659
+  },
+  {
+    "unit": "Unit_42",
+    "english_phrase": "this week",
+    "korean_phrase": "이번 주",
+    "audio_path": "1363.mp3",
+    "id": 660
+  },
+  {
+    "unit": "Unit_42",
+    "english_phrase": "last week",
+    "korean_phrase": "지난 주",
+    "audio_path": "373.mp3",
+    "id": 661
+  },
+  {
+    "unit": "Unit_42",
+    "english_phrase": "this year",
+    "korean_phrase": "올해",
+    "audio_path": "1527.mp3",
+    "id": 662
+  },
+  {
+    "unit": "Unit_42",
+    "english_phrase": "cold tea",
+    "korean_phrase": "시원한 차",
+    "audio_path": "346.mp3",
+    "id": 663
+  },
+  {
+    "unit": "Unit_42",
+    "english_phrase": "warm tea",
+    "korean_phrase": "따뜻한 차",
+    "audio_path": "1313.mp3",
+    "id": 664
+  },
+  {
+    "unit": "Unit_42",
+    "english_phrase": "He is in.",
+    "korean_phrase": "계세요.",
+    "audio_path": "1559.mp3",
+    "id": 665
+  },
+  {
+    "unit": "Unit_42",
+    "english_phrase": "He isn’t in.",
+    "korean_phrase": "안 계세요.",
+    "audio_path": "1140.mp3",
+    "id": 666
+  },
+  {
+    "unit": "Unit_43",
+    "english_phrase": "it is not cold [weather]",
+    "korean_phrase": "안 추워요",
+    "audio_path": "1531.mp3",
+    "id": 667
+  },
+  {
+    "unit": "Unit_43",
+    "english_phrase": "it is not hot [weather]",
+    "korean_phrase": "안 더워요",
+    "audio_path": "1226.mp3",
+    "id": 668
+  },
+  {
+    "unit": "Unit_43",
+    "english_phrase": "beautiful",
+    "korean_phrase": "아름다운",
+    "audio_path": "1743.mp3",
+    "id": 669
+  },
+  {
+    "unit": "Unit_43",
+    "english_phrase": "it is hot [weather]",
+    "korean_phrase": "더워요",
+    "audio_path": "131.mp3",
+    "id": 670
+  },
+  {
+    "unit": "Unit_43",
+    "english_phrase": "it is cold [weather]",
+    "korean_phrase": "추워요",
+    "audio_path": "911.mp3",
+    "id": 671
+  },
+  {
+    "unit": "Unit_43",
+    "english_phrase": "interesting",
+    "korean_phrase": "재미있는",
+    "audio_path": "1621.mp3",
+    "id": 672
+  },
+  {
+    "unit": "Unit_43",
+    "english_phrase": "several days",
+    "korean_phrase": "며칠",
+    "audio_path": "790.mp3",
+    "id": 673
+  },
+  {
+    "unit": "Unit_43",
+    "english_phrase": "I want to travel.",
+    "korean_phrase": "여행하고 싶어요.",
+    "audio_path": "813.mp3",
+    "id": 674
+  },
+  {
+    "unit": "Unit_43",
+    "english_phrase": "it’s famous",
+    "korean_phrase": "유명해요",
+    "audio_path": "930.mp3",
+    "id": 675
+  },
+  {
+    "unit": "Unit_43",
+    "english_phrase": "therefore",
+    "korean_phrase": "그래서",
+    "audio_path": "843.mp3",
+    "id": 676
+  },
+  {
+    "unit": "Unit_44",
+    "english_phrase": "Won’t you come?",
+    "korean_phrase": "안 오시겠어요?",
+    "audio_path": "196.mp3",
+    "id": 677
+  },
+  {
+    "unit": "Unit_44",
+    "english_phrase": "It costs money.",
+    "korean_phrase": "돈이들어요.",
+    "audio_path": "258.mp3",
+    "id": 678
+  },
+  {
+    "unit": "Unit_44",
+    "english_phrase": "clementines",
+    "korean_phrase": "귤",
+    "audio_path": "388.mp3",
+    "id": 679
+  },
+  {
+    "unit": "Unit_44",
+    "english_phrase": "things to do",
+    "korean_phrase": "할 게",
+    "audio_path": "681.mp3",
+    "id": 680
+  },
+  {
+    "unit": "Unit_44",
+    "english_phrase": "Truly.",
+    "korean_phrase": "정말요.",
+    "audio_path": "1167.mp3",
+    "id": 681
+  },
+  {
+    "unit": "Unit_44",
+    "english_phrase": "would you please",
+    "korean_phrase": "주시겠어요",
+    "audio_path": "1427.mp3",
+    "id": 682
+  },
+  {
+    "unit": "Unit_44",
+    "english_phrase": "apples",
+    "korean_phrase": "사과",
+    "audio_path": "1079.mp3",
+    "id": 683
+  },
+  {
+    "unit": "Unit_44",
+    "english_phrase": "document",
+    "korean_phrase": "서류",
+    "audio_path": "231.mp3",
+    "id": 684
+  },
+  {
+    "unit": "Unit_44",
+    "english_phrase": "he doesn’t have",
+    "korean_phrase": "없어요",
+    "audio_path": "480.mp3",
+    "id": 685
+  },
+  {
+    "unit": "Unit_44",
+    "english_phrase": "It’s famous for apples.",
+    "korean_phrase": "사과로 유명해요.",
+    "audio_path": "1784.mp3",
+    "id": 686
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I understand",
+    "korean_phrase": "알겠습니다",
+    "audio_path": "1273.mp3",
+    "id": 687
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "she was working",
+    "korean_phrase": "일했어요",
+    "audio_path": "488.mp3",
+    "id": 688
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I read",
+    "korean_phrase": "읽어요",
+    "audio_path": "1349.mp3",
+    "id": 689
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "really",
+    "korean_phrase": "진짜",
+    "audio_path": "1644.mp3",
+    "id": 690
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I spent too much money last month.",
+    "korean_phrase": "지난달에 돈을 너무 많이 썼어요.",
+    "audio_path": "1276.mp3",
+    "id": 691
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "It’s a good weather for camping. (casual)",
+    "korean_phrase": " 캠핑하기에 딱 좋은 날씨야.",
+    "audio_path": "520.mp3",
+    "id": 692
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "How old do I look? (casual)",
+    "korean_phrase": "내가 몇 살로 보이니?",
+    "audio_path": "737.mp3",
+    "id": 693
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "Is there package delivery on Saturdays?",
+    "korean_phrase": " 토요일에도 소포 배달을 하나요?",
+    "audio_path": "1131.mp3",
+    "id": 694
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "What’s your best dish?",
+    "korean_phrase": "제일 잘하는 요리가 뭐예요?",
+    "audio_path": "253.mp3",
+    "id": 695
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I searched the recipe online.",
+    "korean_phrase": " 온라인으로 레시피를 검색했어요.",
+    "audio_path": "1254.mp3",
+    "id": 696
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "Let’s do something fun! (casual)",
+    "korean_phrase": " 우리 재밌는 거 하자!",
+    "audio_path": "1776.mp3",
+    "id": 697
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I can introduce you. (casual)",
+    "korean_phrase": " 내가 소개해 줄 수 있어.",
+    "audio_path": "221.mp3",
+    "id": 698
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I’ve been living alone since March.",
+    "korean_phrase": " 삼월부터 혼자 살고 있어요.",
+    "audio_path": "886.mp3",
+    "id": 699
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "Thank you.",
+    "korean_phrase": "감사했습니다.",
+    "audio_path": "1751.mp3",
+    "id": 700
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "every day",
+    "korean_phrase": "매일",
+    "audio_path": "932.mp3",
+    "id": 701
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "news",
+    "korean_phrase": "뉴스",
+    "audio_path": "1066.mp3",
+    "id": 702
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "via online",
+    "korean_phrase": "온라인으로",
+    "audio_path": "1785.mp3",
+    "id": 703
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I buy",
+    "korean_phrase": "사요",
+    "audio_path": "791.mp3",
+    "id": 704
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "your daughter",
+    "korean_phrase": "따님",
+    "audio_path": "856.mp3",
+    "id": 705
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "your son",
+    "korean_phrase": "아드님",
+    "audio_path": "1085.mp3",
+    "id": 706
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "It’s a little expensive, but it’s very good. (casual)",
+    "korean_phrase": " 조금 비싸지만 아주 좋아.",
+    "audio_path": "557.mp3",
+    "id": 707
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "Are you busy in the evening? (casual)",
+    "korean_phrase": " 저녁에 바쁘니?",
+    "audio_path": "1652.mp3",
+    "id": 708
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I studied in Canada for about three years.",
+    "korean_phrase": " 캐나다에서 삼 년 정도 공부했어요.",
+    "audio_path": "1170.mp3",
+    "id": 709
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I want to do something fun with my friend.",
+    "korean_phrase": "친구와 재미있는 것을 하고 싶어요.",
+    "audio_path": "424.mp3",
+    "id": 710
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "It looks fun.",
+    "korean_phrase": " 재미있어 보여요.",
+    "audio_path": "872.mp3",
+    "id": 711
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "Summer weather is hot and humid.",
+    "korean_phrase": " 여름 날씨는 덥고 습해요.",
+    "audio_path": "287.mp3",
+    "id": 712
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "September is still hot. (casual)",
+    "korean_phrase": " 구월은 아직 더워.",
+    "audio_path": "427.mp3",
+    "id": 713
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I think those two are flirting. (slang)",
+    "korean_phrase": "저 둘 썸 타는 것 같아.",
+    "audio_path": "1364.mp3",
+    "id": 714
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I will receive a package tomorrow.",
+    "korean_phrase": " 내일 소포를 받을 거예요.",
+    "audio_path": "1469.mp3",
+    "id": 715
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "This painting is world famous.",
+    "korean_phrase": " 이 그림은 세계적으로 유명해요.",
+    "audio_path": "1580.mp3",
+    "id": 716
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I get up at 7 a.m. every day.",
+    "korean_phrase": "매일 오전 일곱 시에 일어나요.",
+    "audio_path": "658.mp3",
+    "id": 717
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "What are you thinking? (casual)",
+    "korean_phrase": " 무슨 생각 해?",
+    "audio_path": "1649.mp3",
+    "id": 718
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "The schedule is all canceled. (casual)",
+    "korean_phrase": " 일정이 모두 취소되었어.",
+    "audio_path": "714.mp3",
+    "id": 719
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "That looks really delicious.",
+    "korean_phrase": " 그거 정말 맛있어 보여요.",
+    "audio_path": "1272.mp3",
+    "id": 720
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I was up all night.",
+    "korean_phrase": " 밤을 새웠어요.",
+    "audio_path": "584.mp3",
+    "id": 721
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "Never mind. (casual)",
+    "korean_phrase": " 신경 쓰지 마.",
+    "audio_path": "409.mp3",
+    "id": 722
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "The deadline for the application was last month.",
+    "korean_phrase": " 신청 마감일은 지난 달이었어요.",
+    "audio_path": "447.mp3",
+    "id": 723
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "I need to move out in November.",
+    "korean_phrase": "십일월에 이사해야 해요.",
+    "audio_path": "487.mp3",
+    "id": 724
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "It doesn’t help at all. (casual)",
+    "korean_phrase": " 전혀 도움이 안 돼.",
+    "audio_path": "902.mp3",
+    "id": 725
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "Can you send it by messenger? (casual)",
+    "korean_phrase": " 메신저로 보내 줄 수 있어?",
+    "audio_path": "1081.mp3",
+    "id": 726
+  },
+  {
+    "unit": "Unit_45",
+    "english_phrase": "How about meeting an hour earlier?",
+    "korean_phrase": " 한 시간 일찍 만나는 건 어때요?",
+    "audio_path": "704.mp3",
+    "id": 727
+  },
+  {
+    "unit": "Unit_46",
+    "english_phrase": "charger",
+    "korean_phrase": "충전기",
+    "audio_path": "375.mp3",
+    "id": 728
+  },
+  {
+    "unit": "Unit_46",
+    "english_phrase": "I was working",
+    "korean_phrase": "일했어요",
+    "audio_path": "828.mp3",
+    "id": 729
+  },
+  {
+    "unit": "Unit_46",
+    "english_phrase": "cake",
+    "korean_phrase": "케잌",
+    "audio_path": "1435.mp3",
+    "id": 730
+  },
+  {
+    "unit": "Unit_46",
+    "english_phrase": "Go ahead, please.",
+    "korean_phrase": "그러세요.",
+    "audio_path": "1089.mp3",
+    "id": 731
+  },
+  {
+    "unit": "Unit_46",
+    "english_phrase": "every morning",
+    "korean_phrase": "매일 아침",
+    "audio_path": "264.mp3",
+    "id": 732
+  },
+  {
+    "unit": "Unit_46",
+    "english_phrase": "computer",
+    "korean_phrase": "컴퓨터",
+    "audio_path": "1084.mp3",
+    "id": 733
+  },
+  {
+    "unit": "Unit_46",
+    "english_phrase": "He is thirty-two years old.",
+    "korean_phrase": "서른 두 살이에요.",
+    "audio_path": "1540.mp3",
+    "id": 734
+  },
+  {
+    "unit": "Unit_46",
+    "english_phrase": "He is thirty years old.",
+    "korean_phrase": "서른살이에요.",
+    "audio_path": "663.mp3",
+    "id": 735
+  },
+  {
+    "unit": "Unit_46",
+    "english_phrase": "He is thirty-three years old.",
+    "korean_phrase": "서른세살이에요.",
+    "audio_path": "1279.mp3",
+    "id": 736
+  },
+  {
+    "unit": "Unit_46",
+    "english_phrase": "Ah, here it is.",
+    "korean_phrase": "아,여기 있네요.",
+    "audio_path": "979.mp3",
+    "id": 737
+  },
+  {
+    "unit": "Unit_47",
+    "english_phrase": "university",
+    "korean_phrase": "대학",
+    "audio_path": "1198.mp3",
+    "id": 738
+  },
+  {
+    "unit": "Unit_47",
+    "english_phrase": "university student",
+    "korean_phrase": "대학생",
+    "audio_path": "771.mp3",
+    "id": 739
+  },
+  {
+    "unit": "Unit_47",
+    "english_phrase": "high school student",
+    "korean_phrase": "고등학생",
+    "audio_path": "310.mp3",
+    "id": 740
+  },
+  {
+    "unit": "Unit_47",
+    "english_phrase": "she is studying",
+    "korean_phrase": "공부해요",
+    "audio_path": "128.mp3",
+    "id": 741
+  },
+  {
+    "unit": "Unit_47",
+    "english_phrase": "middle school student",
+    "korean_phrase": "중학생",
+    "audio_path": "879.mp3",
+    "id": 742
+  },
+  {
+    "unit": "Unit_47",
+    "english_phrase": "economics",
+    "korean_phrase": "경제학",
+    "audio_path": "1431.mp3",
+    "id": 743
+  },
+  {
+    "unit": "Unit_47",
+    "english_phrase": "meters",
+    "korean_phrase": "미터",
+    "audio_path": "548.mp3",
+    "id": 744
+  },
+  {
+    "unit": "Unit_47",
+    "english_phrase": "bakery",
+    "korean_phrase": "빵집",
+    "audio_path": "551.mp3",
+    "id": 745
+  },
+  {
+    "unit": "Unit_47",
+    "english_phrase": "post office",
+    "korean_phrase": "우체국",
+    "audio_path": "1037.mp3",
+    "id": 746
+  },
+  {
+    "unit": "Unit_47",
+    "english_phrase": "Which university is it?",
+    "korean_phrase": "무슨 대학이에요?",
+    "audio_path": "266.mp3",
+    "id": 747
+  },
+  {
+    "unit": "Unit_48",
+    "english_phrase": "My wife is sick.",
+    "korean_phrase": "제 아내가 아파요.",
+    "audio_path": "1513.mp3",
+    "id": 748
+  },
+  {
+    "unit": "Unit_48",
+    "english_phrase": "I’m sick.",
+    "korean_phrase": "아파요.",
+    "audio_path": "1755.mp3",
+    "id": 749
+  },
+  {
+    "unit": "Unit_48",
+    "english_phrase": "please turn",
+    "korean_phrase": "도세요",
+    "audio_path": "118.mp3",
+    "id": 750
+  },
+  {
+    "unit": "Unit_48",
+    "english_phrase": "school",
+    "korean_phrase": "학교",
+    "audio_path": "1707.mp3",
+    "id": 751
+  },
+  {
+    "unit": "Unit_48",
+    "english_phrase": "I work",
+    "korean_phrase": "일해요",
+    "audio_path": "414.mp3",
+    "id": 752
+  },
+  {
+    "unit": "Unit_48",
+    "english_phrase": "email",
+    "korean_phrase": "이메일",
+    "audio_path": "1200.mp3",
+    "id": 753
+  },
+  {
+    "unit": "Unit_48",
+    "english_phrase": "that corner",
+    "korean_phrase": "그 코너",
+    "audio_path": "1378.mp3",
+    "id": 754
+  },
+  {
+    "unit": "Unit_48",
+    "english_phrase": "corner",
+    "korean_phrase": "코너",
+    "audio_path": "1550.mp3",
+    "id": 755
+  },
+  {
+    "unit": "Unit_48",
+    "english_phrase": "Here!",
+    "korean_phrase": "여기요!",
+    "audio_path": "1605.mp3",
+    "id": 756
+  },
+  {
+    "unit": "Unit_48",
+    "english_phrase": "Here comes the taxi.",
+    "korean_phrase": "택시가 왔네요.",
+    "audio_path": "42.mp3",
+    "id": 757
+  },
+  {
+    "unit": "Unit_49",
+    "english_phrase": "My husband is sick.",
+    "korean_phrase": "제 남편이 아파요.",
+    "audio_path": "1774.mp3",
+    "id": 758
+  },
+  {
+    "unit": "Unit_49",
+    "english_phrase": "stomach",
+    "korean_phrase": "배",
+    "audio_path": "354.mp3",
+    "id": 759
+  },
+  {
+    "unit": "Unit_49",
+    "english_phrase": "It’s one million won.",
+    "korean_phrase": "백만원이에요.",
+    "audio_path": "1042.mp3",
+    "id": 760
+  },
+  {
+    "unit": "Unit_49",
+    "english_phrase": "Shall I call?",
+    "korean_phrase": "부를까요?",
+    "audio_path": "330.mp3",
+    "id": 761
+  },
+  {
+    "unit": "Unit_49",
+    "english_phrase": "down this road",
+    "korean_phrase": "이 아래 길로",
+    "audio_path": "1566.mp3",
+    "id": 762
+  },
+  {
+    "unit": "Unit_49",
+    "english_phrase": "twenty thousand",
+    "korean_phrase": "이만",
+    "audio_path": "960.mp3",
+    "id": 763
+  },
+  {
+    "unit": "Unit_49",
+    "english_phrase": "twenty-one thousand",
+    "korean_phrase": "이만 천",
+    "audio_path": "47.mp3",
+    "id": 764
+  },
+  {
+    "unit": "Unit_49",
+    "english_phrase": "magazine",
+    "korean_phrase": "잡지",
+    "audio_path": "501.mp3",
+    "id": 765
+  },
+  {
+    "unit": "Unit_49",
+    "english_phrase": "phone",
+    "korean_phrase": "전화",
+    "audio_path": "1650.mp3",
+    "id": 766
+  },
+  {
+    "unit": "Unit_49",
+    "english_phrase": "pharmacy",
+    "korean_phrase": "약국",
+    "audio_path": "1462.mp3",
+    "id": 767
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I don’t know the mailing address.",
+    "korean_phrase": " 우편 주소를 몰라요.",
+    "audio_path": "331.mp3",
+    "id": 768
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "My girlfriend is the prettiest girl in the world. (slang)",
+    "korean_phrase": " 내 여자친구가 세젤예야.",
+    "audio_path": "125.mp3",
+    "id": 769
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "It’s written on my business card.",
+    "korean_phrase": "명함에 적혀 있어요.",
+    "audio_path": "490.mp3",
+    "id": 770
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "Please contact me by messenger.",
+    "korean_phrase": " 메신저로 연락 주세요.",
+    "audio_path": "184.mp3",
+    "id": 771
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "What are you interested in these days?",
+    "korean_phrase": " 요즘 관심사가 뭐예요?",
+    "audio_path": "1152.mp3",
+    "id": 772
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "We went to the same school.",
+    "korean_phrase": "같은 학교를 다녔어요.",
+    "audio_path": "1336.mp3",
+    "id": 773
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I check my email every morning.",
+    "korean_phrase": " 매일 아침 이메일을 확인해요.",
+    "audio_path": "514.mp3",
+    "id": 774
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I usually get off work at six.",
+    "korean_phrase": "보통 여섯 시에 퇴근해요.",
+    "audio_path": "1382.mp3",
+    "id": 775
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "Why are you so busy after work?",
+    "korean_phrase": "퇴근 후에 왜 이렇게 바쁘니?",
+    "audio_path": "1357.mp3",
+    "id": 776
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "It’s only five minutes’ walk.",
+    "korean_phrase": " 오 분만 걸어가면 돼요.",
+    "audio_path": "504.mp3",
+    "id": 777
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "How can I make a video call? (casual)",
+    "korean_phrase": " 영상통화는 어떻게 하는 거야?",
+    "audio_path": "482.mp3",
+    "id": 778
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I’ve heard it before.",
+    "korean_phrase": " 전에 그것을 들은 적 있어요.",
+    "audio_path": "565.mp3",
+    "id": 779
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I live with my boyfriend.",
+    "korean_phrase": " 남자친구랑 살고 있어요.",
+    "audio_path": "953.mp3",
+    "id": 780
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "It’s not that uncomfortable.",
+    "korean_phrase": " 별로 안 불편해요.",
+    "audio_path": "434.mp3",
+    "id": 781
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I don’t know if it will be there. (polite)",
+    "korean_phrase": " 그곳에 있을지 모르겠어요.",
+    "audio_path": "1374.mp3",
+    "id": 782
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I don’t know where it is. (casual)",
+    "korean_phrase": " 어디에 있는지 모르겠어.",
+    "audio_path": "1524.mp3",
+    "id": 783
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "It was there.",
+    "korean_phrase": " 그곳에 있었어요.",
+    "audio_path": "1058.mp3",
+    "id": 784
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "It’s in the desk drawer.",
+    "korean_phrase": "책상 서랍장에 있어요.",
+    "audio_path": "299.mp3",
+    "id": 785
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I put it in the left-hand cabinet.",
+    "korean_phrase": " 왼쪽 수납장에 넣었어요.",
+    "audio_path": "1616.mp3",
+    "id": 786
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "Isn’t the work hard?",
+    "korean_phrase": " 일은 힘들지 않나요?",
+    "audio_path": "1689.mp3",
+    "id": 787
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I have to do a part-time job. (slang)",
+    "korean_phrase": " 알바해야 해.",
+    "audio_path": "353.mp3",
+    "id": 788
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I major in economics.",
+    "korean_phrase": " 경제학 전공이에요.",
+    "audio_path": "1033.mp3",
+    "id": 789
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I’m in graduate school.",
+    "korean_phrase": " 대학원에 다니는 중이에요.",
+    "audio_path": "1439.mp3",
+    "id": 790
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I have a degree in economics.",
+    "korean_phrase": " 경제학 학위를 가지고 있어요.",
+    "audio_path": "69.mp3",
+    "id": 791
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I went to college in America.",
+    "korean_phrase": " 미국에 있는 대학에 다녔어요.",
+    "audio_path": "1633.mp3",
+    "id": 792
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I go to graduate school in Seoul.",
+    "korean_phrase": " 대학원은 서울에서 다녀요.",
+    "audio_path": "1317.mp3",
+    "id": 793
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "It’s a national university.",
+    "korean_phrase": "국립 대학교예요.",
+    "audio_path": "1465.mp3",
+    "id": 794
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I’m looking for an internship.",
+    "korean_phrase": " 인턴십을 찾고 있어요.",
+    "audio_path": "648.mp3",
+    "id": 795
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "I got a scholarship last year.",
+    "korean_phrase": " 작년에 장학금을 받았어요.",
+    "audio_path": "304.mp3",
+    "id": 796
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "It’s faster to get there by car.",
+    "korean_phrase": " 차로 가는 게 더 빨라요.",
+    "audio_path": "1698.mp3",
+    "id": 797
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "thirty thousand",
+    "korean_phrase": "삼만",
+    "audio_path": "1409.mp3",
+    "id": 798
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "thirty-six thousand",
+    "korean_phrase": "삼만 육천",
+    "audio_path": "70.mp3",
+    "id": 799
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "platform",
+    "korean_phrase": "승강장",
+    "audio_path": "1694.mp3",
+    "id": 800
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "number six",
+    "korean_phrase": "육번",
+    "audio_path": "228.mp3",
+    "id": 801
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "more than",
+    "korean_phrase": "보다 더",
+    "audio_path": "707.mp3",
+    "id": 802
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "is faster than",
+    "korean_phrase": "보다 더 빨라요",
+    "audio_path": "1164.mp3",
+    "id": 803
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "express train",
+    "korean_phrase": "고속 열차",
+    "audio_path": "1071.mp3",
+    "id": 804
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "by express train",
+    "korean_phrase": "고속 열차로",
+    "audio_path": "1481.mp3",
+    "id": 805
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "eleven thousand",
+    "korean_phrase": "만 천",
+    "audio_path": "793.mp3",
+    "id": 806
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "four thousand two hundred",
+    "korean_phrase": "사천 이백",
+    "audio_path": "1128.mp3",
+    "id": 807
+  },
+  {
+    "unit": "Unit_50",
+    "english_phrase": "forty-one thousand",
+    "korean_phrase": "사만 천",
+    "audio_path": "1702.mp3",
+    "id": 808
+  },
+  {
+    "unit": "Unit_51",
+    "english_phrase": "painkillers",
+    "korean_phrase": "진통제",
+    "audio_path": "1679.mp3",
+    "id": 809
+  },
+  {
+    "unit": "Unit_51",
+    "english_phrase": "eight thousand two hundred",
+    "korean_phrase": "팔천 이백",
+    "audio_path": "122.mp3",
+    "id": 810
+  },
+  {
+    "unit": "Unit_51",
+    "english_phrase": "It’s fast, isn’t it?",
+    "korean_phrase": "빠르네요.",
+    "audio_path": "1076.mp3",
+    "id": 811
+  },
+  {
+    "unit": "Unit_51",
+    "english_phrase": "It is safe.",
+    "korean_phrase": "안전해요.",
+    "audio_path": "1457.mp3",
+    "id": 812
+  },
+  {
+    "unit": "Unit_51",
+    "english_phrase": "boxed lunch",
+    "korean_phrase": "도시락",
+    "audio_path": "213.mp3",
+    "id": 813
+  },
+  {
+    "unit": "Unit_51",
+    "english_phrase": "one thousand eight hundred",
+    "korean_phrase": "천 팔백",
+    "audio_path": "366.mp3",
+    "id": 814
+  },
+  {
+    "unit": "Unit_51",
+    "english_phrase": "two tickets",
+    "korean_phrase": "두 장",
+    "audio_path": "236.mp3",
+    "id": 815
+  },
+  {
+    "unit": "Unit_51",
+    "english_phrase": "fruits",
+    "korean_phrase": "과일",
+    "audio_path": "129.mp3",
+    "id": 816
+  },
+  {
+    "unit": "Unit_51",
+    "english_phrase": "holiday",
+    "korean_phrase": "휴일",
+    "audio_path": "734.mp3",
+    "id": 817
+  },
+  {
+    "unit": "Unit_51",
+    "english_phrase": "is closer than",
+    "korean_phrase": "보다 더 가까워요",
+    "audio_path": "1126.mp3",
+    "id": 818
+  },
+  {
+    "unit": "Unit_52",
+    "english_phrase": "right away",
+    "korean_phrase": "바로",
+    "audio_path": "1697.mp3",
+    "id": 819
+  },
+  {
+    "unit": "Unit_52",
+    "english_phrase": "is slower than",
+    "korean_phrase": "보다 더 느려요",
+    "audio_path": "117.mp3",
+    "id": 820
+  },
+  {
+    "unit": "Unit_52",
+    "english_phrase": "seven thousand one hundred",
+    "korean_phrase": "칠천 백",
+    "audio_path": "1386.mp3",
+    "id": 821
+  },
+  {
+    "unit": "Unit_52",
+    "english_phrase": "It’s broken.",
+    "korean_phrase": "고장났어요.",
+    "audio_path": "535.mp3",
+    "id": 822
+  },
+  {
+    "unit": "Unit_52",
+    "english_phrase": "golf",
+    "korean_phrase": "골프",
+    "audio_path": "36.mp3",
+    "id": 823
+  },
+  {
+    "unit": "Unit_52",
+    "english_phrase": "kiosk",
+    "korean_phrase": "매점",
+    "audio_path": "839.mp3",
+    "id": 824
+  },
+  {
+    "unit": "Unit_52",
+    "english_phrase": "village",
+    "korean_phrase": "마을",
+    "audio_path": "1660.mp3",
+    "id": 825
+  },
+  {
+    "unit": "Unit_52",
+    "english_phrase": "village bus",
+    "korean_phrase": "마을 버스",
+    "audio_path": "1390.mp3",
+    "id": 826
+  },
+  {
+    "unit": "Unit_52",
+    "english_phrase": "by village bus",
+    "korean_phrase": "마을 버스로",
+    "audio_path": "1693.mp3",
+    "id": 827
+  },
+  {
+    "unit": "Unit_52",
+    "english_phrase": "station",
+    "korean_phrase": "역",
+    "audio_path": "748.mp3",
+    "id": 828
+  },
+  {
+    "unit": "Unit_53",
+    "english_phrase": "acquaintance",
+    "korean_phrase": "아는 사람",
+    "audio_path": "1014.mp3",
+    "id": 829
+  },
+  {
+    "unit": "Unit_53",
+    "english_phrase": "better than",
+    "korean_phrase": "보다 더 잘",
+    "audio_path": "282.mp3",
+    "id": 830
+  },
+  {
+    "unit": "Unit_53",
+    "english_phrase": "a nice person",
+    "korean_phrase": "착한 사람",
+    "audio_path": "411.mp3",
+    "id": 831
+  },
+  {
+    "unit": "Unit_53",
+    "english_phrase": "person",
+    "korean_phrase": "사람",
+    "audio_path": "260.mp3",
+    "id": 832
+  },
+  {
+    "unit": "Unit_53",
+    "english_phrase": "Wednesday",
+    "korean_phrase": "수요일",
+    "audio_path": "1137.mp3",
+    "id": 833
+  },
+  {
+    "unit": "Unit_53",
+    "english_phrase": "tennis",
+    "korean_phrase": "테니스",
+    "audio_path": "451.mp3",
+    "id": 834
+  },
+  {
+    "unit": "Unit_53",
+    "english_phrase": "As for Thursday, it’s all right.",
+    "korean_phrase": "목요일은 돼요.",
+    "audio_path": "1248.mp3",
+    "id": 835
+  },
+  {
+    "unit": "Unit_53",
+    "english_phrase": "considerably",
+    "korean_phrase": "상당히",
+    "audio_path": "1732.mp3",
+    "id": 836
+  },
+  {
+    "unit": "Unit_53",
+    "english_phrase": "good-natured",
+    "korean_phrase": "착한",
+    "audio_path": "797.mp3",
+    "id": 837
+  },
+  {
+    "unit": "Unit_53",
+    "english_phrase": "She plays golf.",
+    "korean_phrase": "골프를 치세요.",
+    "audio_path": "1672.mp3",
+    "id": 838
+  },
+  {
+    "unit": "Unit_54",
+    "english_phrase": "I am not busy",
+    "korean_phrase": "안 바빠요",
+    "audio_path": "334.mp3",
+    "id": 839
+  },
+  {
+    "unit": "Unit_54",
+    "english_phrase": "I am busy",
+    "korean_phrase": "바빠요",
+    "audio_path": "1372.mp3",
+    "id": 840
+  },
+  {
+    "unit": "Unit_54",
+    "english_phrase": "you are busy",
+    "korean_phrase": "바쁘세요",
+    "audio_path": "1647.mp3",
+    "id": 841
+  },
+  {
+    "unit": "Unit_54",
+    "english_phrase": "You’re busy, aren’t you?",
+    "korean_phrase": "바쁘시네요.",
+    "audio_path": "832.mp3",
+    "id": 842
+  },
+  {
+    "unit": "Unit_54",
+    "english_phrase": "I am all right",
+    "korean_phrase": "돼요",
+    "audio_path": "971.mp3",
+    "id": 843
+  },
+  {
+    "unit": "Unit_54",
+    "english_phrase": "company dinner",
+    "korean_phrase": "회식",
+    "audio_path": "554.mp3",
+    "id": 844
+  },
+  {
+    "unit": "Unit_54",
+    "english_phrase": "I don’t play well",
+    "korean_phrase": "잘 못 쳐요",
+    "audio_path": "733.mp3",
+    "id": 845
+  },
+  {
+    "unit": "Unit_54",
+    "english_phrase": "however",
+    "korean_phrase": "근데",
+    "audio_path": "729.mp3",
+    "id": 846
+  },
+  {
+    "unit": "Unit_54",
+    "english_phrase": "That doesn’t matter.",
+    "korean_phrase": "상관없어요.",
+    "audio_path": "721.mp3",
+    "id": 847
+  },
+  {
+    "unit": "Unit_54",
+    "english_phrase": "I have free time",
+    "korean_phrase": "한가해요",
+    "audio_path": "1627.mp3",
+    "id": 848
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I have an appointment on Friday.",
+    "korean_phrase": " 금요일에 선약 있어요.",
+    "audio_path": "1296.mp3",
+    "id": 849
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "How about next week?",
+    "korean_phrase": " 다음 주는 어때요?",
+    "audio_path": "803.mp3",
+    "id": 850
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "The last game was the best ever. (slang)",
+    "korean_phrase": " 지난 경기는 역대급이였어.",
+    "audio_path": "880.mp3",
+    "id": 851
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I played tennis for a long time.",
+    "korean_phrase": " 테니스를 오랫동안 쳤어요.",
+    "audio_path": "1657.mp3",
+    "id": 852
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "Are you an athlete?",
+    "korean_phrase": "운동선수예요?",
+    "audio_path": "1208.mp3",
+    "id": 853
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "Tomorrow is a holiday, isn’t it? (casual)",
+    "korean_phrase": " 내일은 휴일이지, 아니야?",
+    "audio_path": "1371.mp3",
+    "id": 854
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "The day after tomorrow is available. (casual)",
+    "korean_phrase": " 내일모레는 가능해.",
+    "audio_path": "1239.mp3",
+    "id": 855
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "Can I borrow your racket? (casual)",
+    "korean_phrase": " 라켓을 빌릴 수 있을까?",
+    "audio_path": "702.mp3",
+    "id": 856
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I’m in! / Sure (slang)",
+    "korean_phrase": " 콜!\n!",
+    "audio_path": "1342.mp3",
+    "id": 857
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I’ll be out for a minute. (casual)",
+    "korean_phrase": " 잠깐 나갔다 올게.",
+    "audio_path": "1723.mp3",
+    "id": 858
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I’ll be out for a minute.",
+    "korean_phrase": " 잠깐 나갔다 올게요.",
+    "audio_path": "1002.mp3",
+    "id": 859
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I will go and come back in a day.",
+    "korean_phrase": " 당일치기로 다녀올 거예요.",
+    "audio_path": "910.mp3",
+    "id": 860
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "Are we going far away?",
+    "korean_phrase": " 멀리 가는 거예요?",
+    "audio_path": "1502.mp3",
+    "id": 861
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "You’re awfully busy, aren’t you? (casual)",
+    "korean_phrase": " 너 정말 바쁘구나, 그렇지?",
+    "audio_path": "809.mp3",
+    "id": 862
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I’ll be waiting here.",
+    "korean_phrase": " 여기서 기다리고 있을게요.",
+    "audio_path": "450.mp3",
+    "id": 863
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I’ll be waiting here. (casual)",
+    "korean_phrase": " 여기서 기다리고 있을게.",
+    "audio_path": "234.mp3",
+    "id": 864
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I think the car’s broken. (casual)",
+    "korean_phrase": "차가 고장난 것 같아.",
+    "audio_path": "1716.mp3",
+    "id": 865
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "Why isn’t it moving?",
+    "korean_phrase": " 왜 움직이지 않는 거예요?",
+    "audio_path": "1714.mp3",
+    "id": 866
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "There is enough oil. (casual)",
+    "korean_phrase": " 기름은 충분히 있어.",
+    "audio_path": "462.mp3",
+    "id": 867
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "Can you play the violin?",
+    "korean_phrase": " 바이올린 켤 수 있어요?",
+    "audio_path": "63.mp3",
+    "id": 868
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I want to hear some music.",
+    "korean_phrase": "음악이 듣고 싶어요.",
+    "audio_path": "833.mp3",
+    "id": 869
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I learned it when I was young.",
+    "korean_phrase": " 어릴 때 배웠어요.",
+    "audio_path": "1251.mp3",
+    "id": 870
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I’m not good at it now.",
+    "korean_phrase": "지금은 잘 못해요.",
+    "audio_path": "726.mp3",
+    "id": 871
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "Is there a gas station nearby?",
+    "korean_phrase": " 근처에 주유소가 있나요?",
+    "audio_path": "389.mp3",
+    "id": 872
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I used to play tennis.",
+    "korean_phrase": "테니스를 치곤 했어요.",
+    "audio_path": "1023.mp3",
+    "id": 873
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I learned from my dad.",
+    "korean_phrase": " 아빠에게 배웠어요.",
+    "audio_path": "177.mp3",
+    "id": 874
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "What sports do you play?",
+    "korean_phrase": "어떤 스포츠를 해요?",
+    "audio_path": "819.mp3",
+    "id": 875
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "What is your favorite sport?",
+    "korean_phrase": "좋아하는 스포츠가 뭐예요?",
+    "audio_path": "1370.mp3",
+    "id": 876
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I like to watch the basketball game.",
+    "korean_phrase": " 농구 경기 보는 걸 좋아해요.",
+    "audio_path": "410.mp3",
+    "id": 877
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "Do you want to go to the game on Friday?",
+    "korean_phrase": " 금요일에 경기 보러 갈래요?",
+    "audio_path": "1541.mp3",
+    "id": 878
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "vanilla",
+    "korean_phrase": "바닐라",
+    "audio_path": "1438.mp3",
+    "id": 879
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "lawyer",
+    "korean_phrase": "변호사",
+    "audio_path": "689.mp3",
+    "id": 880
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "chocolate",
+    "korean_phrase": "쵸콜렛",
+    "audio_path": "1256.mp3",
+    "id": 881
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I will withdraw",
+    "korean_phrase": "인출할게요",
+    "audio_path": "874.mp3",
+    "id": 882
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I will pay",
+    "korean_phrase": "낼게요",
+    "audio_path": "295.mp3",
+    "id": 883
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I will return",
+    "korean_phrase": "올게요",
+    "audio_path": "1434.mp3",
+    "id": 884
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "personality",
+    "korean_phrase": "성격",
+    "audio_path": "350.mp3",
+    "id": 885
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "one hundred thousand",
+    "korean_phrase": "십만",
+    "audio_path": "1792.mp3",
+    "id": 886
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "profession",
+    "korean_phrase": "직업",
+    "audio_path": "1241.mp3",
+    "id": 887
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "He works as a lawyer.",
+    "korean_phrase": "직업이 변호사예요.",
+    "audio_path": "1728.mp3",
+    "id": 888
+  },
+  {
+    "unit": "Unit_55",
+    "english_phrase": "I’ll return right away.",
+    "korean_phrase": "바로 올게요.",
+    "audio_path": "1203.mp3",
+    "id": 889
+  },
+  {
+    "unit": "Unit_56",
+    "english_phrase": "room",
+    "korean_phrase": "방",
+    "audio_path": "269.mp3",
+    "id": 890
+  },
+  {
+    "unit": "Unit_56",
+    "english_phrase": "cheesecake",
+    "korean_phrase": "치즈 케잌",
+    "audio_path": "866.mp3",
+    "id": 891
+  },
+  {
+    "unit": "Unit_56",
+    "english_phrase": "I will go and come back",
+    "korean_phrase": "다녀 올게요",
+    "audio_path": "1425.mp3",
+    "id": 892
+  },
+  {
+    "unit": "Unit_56",
+    "english_phrase": "Can I pay by credit card?",
+    "korean_phrase": "카드 결제 됩니까?",
+    "audio_path": "191.mp3",
+    "id": 893
+  },
+  {
+    "unit": "Unit_56",
+    "english_phrase": "What will you do?",
+    "korean_phrase": "뭐 하세요?",
+    "audio_path": "475.mp3",
+    "id": 894
+  },
+  {
+    "unit": "Unit_56",
+    "english_phrase": "nearby",
+    "korean_phrase": "가까이",
+    "audio_path": "1160.mp3",
+    "id": 895
+  },
+  {
+    "unit": "Unit_56",
+    "english_phrase": "transaction",
+    "korean_phrase": "결제",
+    "audio_path": "223.mp3",
+    "id": 896
+  },
+  {
+    "unit": "Unit_56",
+    "english_phrase": "vacation time",
+    "korean_phrase": "휴가 때",
+    "audio_path": "59.mp3",
+    "id": 897
+  },
+  {
+    "unit": "Unit_56",
+    "english_phrase": "wallet",
+    "korean_phrase": "지갑",
+    "audio_path": "1704.mp3",
+    "id": 898
+  },
+  {
+    "unit": "Unit_56",
+    "english_phrase": "immediately",
+    "korean_phrase": "지금 바로",
+    "audio_path": "500.mp3",
+    "id": 899
+  },
+  {
+    "unit": "Unit_57",
+    "english_phrase": "airplane",
+    "korean_phrase": "비행기",
+    "audio_path": "691.mp3",
+    "id": 900
+  },
+  {
+    "unit": "Unit_57",
+    "english_phrase": "by plane",
+    "korean_phrase": "비행기로",
+    "audio_path": "211.mp3",
+    "id": 901
+  },
+  {
+    "unit": "Unit_57",
+    "english_phrase": "Sunday",
+    "korean_phrase": "일요일",
+    "audio_path": "605.mp3",
+    "id": 902
+  },
+  {
+    "unit": "Unit_57",
+    "english_phrase": "swimming",
+    "korean_phrase": "수영",
+    "audio_path": "1191.mp3",
+    "id": 903
+  },
+  {
+    "unit": "Unit_57",
+    "english_phrase": "driving",
+    "korean_phrase": "운전",
+    "audio_path": "1709.mp3",
+    "id": 904
+  },
+  {
+    "unit": "Unit_57",
+    "english_phrase": "you are going, right?",
+    "korean_phrase": "가시지요?",
+    "audio_path": "1745.mp3",
+    "id": 905
+  },
+  {
+    "unit": "Unit_57",
+    "english_phrase": "I will probably swim.",
+    "korean_phrase": "수영할 거예요.",
+    "audio_path": "818.mp3",
+    "id": 906
+  },
+  {
+    "unit": "Unit_57",
+    "english_phrase": "I like better",
+    "korean_phrase": "더 좋아해요",
+    "audio_path": "1055.mp3",
+    "id": 907
+  },
+  {
+    "unit": "Unit_57",
+    "english_phrase": "because I like better",
+    "korean_phrase": "더 좋아하니까요",
+    "audio_path": "546.mp3",
+    "id": 908
+  },
+  {
+    "unit": "Unit_57",
+    "english_phrase": "I’ll return on Sunday.",
+    "korean_phrase": "일요일에 올게요.",
+    "audio_path": "64.mp3",
+    "id": 909
+  },
+  {
+    "unit": "Unit_58",
+    "english_phrase": "seafood",
+    "korean_phrase": "해물",
+    "audio_path": "799.mp3",
+    "id": 910
+  },
+  {
+    "unit": "Unit_58",
+    "english_phrase": "family",
+    "korean_phrase": "가족들",
+    "audio_path": "1189.mp3",
+    "id": 911
+  },
+  {
+    "unit": "Unit_58",
+    "english_phrase": "at all",
+    "korean_phrase": "전혀",
+    "audio_path": "838.mp3",
+    "id": 912
+  },
+  {
+    "unit": "Unit_58",
+    "english_phrase": "that doesn’t matter, for sure",
+    "korean_phrase": "상관없지요",
+    "audio_path": "917.mp3",
+    "id": 913
+  },
+  {
+    "unit": "Unit_58",
+    "english_phrase": "Where does your family live?",
+    "korean_phrase": "가족들이 어디에 사세요?",
+    "audio_path": "1651.mp3",
+    "id": 914
+  },
+  {
+    "unit": "Unit_58",
+    "english_phrase": "historic",
+    "korean_phrase": "역사적인",
+    "audio_path": "947.mp3",
+    "id": 915
+  },
+  {
+    "unit": "Unit_58",
+    "english_phrase": "for sure",
+    "korean_phrase": "지요",
+    "audio_path": "780.mp3",
+    "id": 916
+  },
+  {
+    "unit": "Unit_58",
+    "english_phrase": "someday",
+    "korean_phrase": "언젠가",
+    "audio_path": "1169.mp3",
+    "id": 917
+  },
+  {
+    "unit": "Unit_58",
+    "english_phrase": "what kind of place",
+    "korean_phrase": "어떤 데",
+    "audio_path": "1147.mp3",
+    "id": 918
+  },
+  {
+    "unit": "Unit_58",
+    "english_phrase": "beach",
+    "korean_phrase": "해변",
+    "audio_path": "1787.mp3",
+    "id": 919
+  },
+  {
+    "unit": "Unit_59",
+    "english_phrase": "Shall I find it?",
+    "korean_phrase": "찾아 드릴까요?",
+    "audio_path": "1517.mp3",
+    "id": 920
+  },
+  {
+    "unit": "Unit_59",
+    "english_phrase": "this weekend",
+    "korean_phrase": "이번 주말",
+    "audio_path": "540.mp3",
+    "id": 921
+  },
+  {
+    "unit": "Unit_59",
+    "english_phrase": "in front of",
+    "korean_phrase": "앞에",
+    "audio_path": "1412.mp3",
+    "id": 922
+  },
+  {
+    "unit": "Unit_59",
+    "english_phrase": "weekend",
+    "korean_phrase": "주말",
+    "audio_path": "320.mp3",
+    "id": 923
+  },
+  {
+    "unit": "Unit_59",
+    "english_phrase": "Enjoy your meal.",
+    "korean_phrase": "맛있게 드세요.",
+    "audio_path": "412.mp3",
+    "id": 924
+  },
+  {
+    "unit": "Unit_59",
+    "english_phrase": "next year",
+    "korean_phrase": "내년",
+    "audio_path": "33.mp3",
+    "id": 925
+  },
+  {
+    "unit": "Unit_59",
+    "english_phrase": "I’m sorry I’m late.",
+    "korean_phrase": "늦어서 미안합니다.",
+    "audio_path": "891.mp3",
+    "id": 926
+  },
+  {
+    "unit": "Unit_59",
+    "english_phrase": "smart phone",
+    "korean_phrase": "스마트폰",
+    "audio_path": "1117.mp3",
+    "id": 927
+  },
+  {
+    "unit": "Unit_59",
+    "english_phrase": "March",
+    "korean_phrase": "삼월",
+    "audio_path": "1103.mp3",
+    "id": 928
+  },
+  {
+    "unit": "Unit_59",
+    "english_phrase": "April",
+    "korean_phrase": "사월",
+    "audio_path": "1428.mp3",
+    "id": 929
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I need cash.",
+    "korean_phrase": " 현금이 필요해요.",
+    "audio_path": "383.mp3",
+    "id": 930
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "Only cash is available.",
+    "korean_phrase": " 현금만 가능해요.",
+    "audio_path": "1004.mp3",
+    "id": 931
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I like to go on family vacations.",
+    "korean_phrase": " 가족 휴가 가는 것을 좋아해요.",
+    "audio_path": "774.mp3",
+    "id": 932
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "Can you take me there?",
+    "korean_phrase": "거기까지 데려다 줄 수 있어요?",
+    "audio_path": "1369.mp3",
+    "id": 933
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "Can you take me there? (casual)",
+    "korean_phrase": "거기까지 데려다 줄 수 있어?",
+    "audio_path": "1407.mp3",
+    "id": 934
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "Can you pick me up? (casual)",
+    "korean_phrase": " 데리러 와 줄 수 있어?",
+    "audio_path": "134.mp3",
+    "id": 935
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "It’s being repaired at the auto shop.",
+    "korean_phrase": " 카센터에서 수리하고 있어요.",
+    "audio_path": "1099.mp3",
+    "id": 936
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I reserved a luxury hotel room.",
+    "korean_phrase": " 고급 호텔방을 예약했어요.",
+    "audio_path": "332.mp3",
+    "id": 937
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I reserved a non-smoking room. (casual)",
+    "korean_phrase": "비흡연 방으로 예약했어.",
+    "audio_path": "1484.mp3",
+    "id": 938
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "Where is the nearest bakery?",
+    "korean_phrase": "제일 가까운 빵집이 어디예요?",
+    "audio_path": "1094.mp3",
+    "id": 939
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "The bread smells good, doesn’t it? (casual)",
+    "korean_phrase": " 빵 냄새가 좋아, 그렇지 않니?",
+    "audio_path": "201.mp3",
+    "id": 940
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "It’s a famous dessert place. (casual)",
+    "korean_phrase": " 디저트가 유명한 곳이야.",
+    "audio_path": "468.mp3",
+    "id": 941
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I would like to go as soon as possible.",
+    "korean_phrase": " 가능한 한 빨리 가고 싶어요.",
+    "audio_path": "25.mp3",
+    "id": 942
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I’m sorry for asking you a lot. (casual)",
+    "korean_phrase": " 많은 걸 물어봐서 미안해.",
+    "audio_path": "1255.mp3",
+    "id": 943
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I’m going to the gym three times a week. (casual)",
+    "korean_phrase": "주 3회 헬스장에 가고 있어.",
+    "audio_path": "995.mp3",
+    "id": 944
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I failed my driving test.",
+    "korean_phrase": " 운전면허 시험에 떨어졌어요.",
+    "audio_path": "1001.mp3",
+    "id": 945
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I’d better get going soon.",
+    "korean_phrase": " 빨리 시작하는 게 좋겠어요.",
+    "audio_path": "829.mp3",
+    "id": 946
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "It was my dream trip! (casual)",
+    "korean_phrase": " 꿈꾸던 여행이었어!",
+    "audio_path": "147.mp3",
+    "id": 947
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "Shall we go on a trip to the beach? (casual)",
+    "korean_phrase": " 해변으로 여행 갈까?",
+    "audio_path": "35.mp3",
+    "id": 948
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I get hot so easily.",
+    "korean_phrase": " 더위를 많이 타요.",
+    "audio_path": "65.mp3",
+    "id": 949
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "My skin stings because I got sunburned.",
+    "korean_phrase": " 햇볕에 타서 피부가 따가워요.",
+    "audio_path": "340.mp3",
+    "id": 950
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I’m really looking forward to this trip.",
+    "korean_phrase": " 이번 여행이 너무 기대돼요.",
+    "audio_path": "495.mp3",
+    "id": 951
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "It’s the peak season.",
+    "korean_phrase": "성수기예요.\n.",
+    "audio_path": "1035.mp3",
+    "id": 952
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I made a reservation in advance! (casual)",
+    "korean_phrase": " 미리 예약했어!",
+    "audio_path": "470.mp3",
+    "id": 953
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "June",
+    "korean_phrase": "유월",
+    "audio_path": "164.mp3",
+    "id": 954
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "This is a busy time. (casual)",
+    "korean_phrase": " 지금은 바쁜 시기야.",
+    "audio_path": "875.mp3",
+    "id": 955
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I was surprised! (slang)",
+    "korean_phrase": " 깜놀했어!\n!",
+    "audio_path": "567.mp3",
+    "id": 956
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "Admission to the museum is free. (casual)",
+    "korean_phrase": " 박물관은 입장료가 무료야.",
+    "audio_path": "1468.mp3",
+    "id": 957
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "It doesn’t open on Mondays. (casual)",
+    "korean_phrase": " 그곳은 월요일에 문을 안 열어.",
+    "audio_path": "1070.mp3",
+    "id": 958
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "Let’s eat out today! (casual)",
+    "korean_phrase": " 오늘은 외식하자!",
+    "audio_path": "283.mp3",
+    "id": 959
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "I will meet my brother in September.",
+    "korean_phrase": "동생을 구월에 만날 거예요.",
+    "audio_path": "1179.mp3",
+    "id": 960
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "black tea",
+    "korean_phrase": "홍차",
+    "audio_path": "884.mp3",
+    "id": 961
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "snow",
+    "korean_phrase": "눈",
+    "audio_path": "1061.mp3",
+    "id": 962
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "it doesn’t snow",
+    "korean_phrase": "눈이 안 와요",
+    "audio_path": "1381.mp3",
+    "id": 963
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "it snows",
+    "korean_phrase": "눈이 와요",
+    "audio_path": "0.mp3",
+    "id": 964
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "summer",
+    "korean_phrase": "여름",
+    "audio_path": "1006.mp3",
+    "id": 965
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "it doesn’t rain",
+    "korean_phrase": "비가 안 와요",
+    "audio_path": "892.mp3",
+    "id": 966
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "it rains",
+    "korean_phrase": "비가 와요",
+    "audio_path": "440.mp3",
+    "id": 967
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "spring",
+    "korean_phrase": "봄",
+    "audio_path": "1020.mp3",
+    "id": 968
+  },
+  {
+    "unit": "Unit_60",
+    "english_phrase": "winter",
+    "korean_phrase": "겨울",
+    "audio_path": "572.mp3",
+    "id": 969
+  }
+]

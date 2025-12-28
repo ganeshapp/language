@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:url_launcher/url_launcher_string.dart';
 
 import '../../library/data/lesson_repository.dart';
 import '../../../core/data/models/lesson_progress.dart';
@@ -8,6 +9,7 @@ import '../../../core/utils/time_format.dart';
 import '../../player/presentation/player_screen.dart';
 import '../../../core/data/settings_repository.dart';
 import '../../../core/data/streak_repository.dart';
+import '../../flashcards/presentation/flashcard_screen.dart';
 
 final lessonsProvider = FutureProvider<List<LessonProgress>>((ref) async {
   final repo = ref.read(lessonRepositoryProvider);
@@ -53,6 +55,16 @@ class LibraryScreen extends HookConsumerWidget {
       appBar: AppBar(
         title: const Text('Library'),
         actions: [
+          IconButton(
+            icon: const Icon(Icons.info_outline),
+            onPressed: () {
+              showModalBottomSheet<void>(
+                context: context,
+                showDragHandle: true,
+                builder: (_) => const _AboutSheet(),
+              );
+            },
+          ),
           IconButton(
             icon: const Icon(Icons.settings),
             onPressed: () {
@@ -217,6 +229,24 @@ class _LessonCard extends ConsumerWidget {
                       _progressLabel(lesson),
                       style: Theme.of(context).textTheme.bodySmall,
                     ),
+                    const SizedBox(height: 12),
+                    SizedBox(
+                      width: double.infinity,
+                      child: FilledButton.tonalIcon(
+                        onPressed: () {
+                          Navigator.of(context).push(
+                            MaterialPageRoute(
+                              builder: (_) => FlashcardScreen(
+                                lessonId: lesson.id,
+                                lessonTitle: lesson.title,
+                              ),
+                            ),
+                          );
+                        },
+                        icon: const Icon(Icons.style),
+                        label: const Text('Flashcards'),
+                      ),
+                    ),
                   ],
                 ),
               ),
@@ -289,6 +319,69 @@ class _SettingsSheet extends ConsumerWidget {
             ),
           ],
         ),
+      ),
+    );
+  }
+}
+
+class _AboutSheet extends StatelessWidget {
+  const _AboutSheet();
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.all(24),
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              const Icon(Icons.info_outline),
+              const SizedBox(width: 12),
+              Text(
+                'About Korean',
+                style: Theme.of(context).textTheme.titleLarge,
+              ),
+            ],
+          ),
+          const SizedBox(height: 16),
+          const Text(
+            'This app is a local-first Korean language companion with 60 audio lessons. '
+            'Tap a unit to play its lesson; long-press a unit to reset progress and bookmarks. '
+            'Use the Flashcards button to practice phrases for that unit with tap-to-flip cards and audio clips.',
+          ),
+          const SizedBox(height: 12),
+          const Text(
+            'Progress is saved offline. Bookmarks can be added while playing lessons or inside flashcards.',
+          ),
+          const SizedBox(height: 12),
+          Row(
+            children: [
+              const Icon(Icons.person),
+              const SizedBox(width: 8),
+              const Text('Created by Gapp'),
+            ],
+          ),
+          const SizedBox(height: 4),
+          InkWell(
+            onTap: () {
+              launchUrlString(
+                'https://www.gapp.in',
+                mode: LaunchMode.externalApplication,
+              );
+            },
+            child: const Text(
+              'www.gapp.in',
+              style: TextStyle(color: Colors.blue),
+            ),
+          ),
+          const SizedBox(height: 12),
+          Text(
+            'Tip: Resume last lesson on launch is available in Settings.',
+            style: Theme.of(context).textTheme.bodySmall,
+          ),
+        ],
       ),
     );
   }
